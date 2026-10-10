@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="C_Tax">
+ <row id="104" trl="N">
+  <value column="Name" original="Standard">Norme</value>
+  <value column="Description" original="" />
+  <value column="TaxIndicator" original="" />
+ </row>
+ <row id="105" trl="N">
+  <value column="Name" original="CT Sales">Ventes CT</value>
+  <value column="Description" original="" />
+  <value column="TaxIndicator" original="6%CT">6%CT</value>
+ </row>
+ <row id="106" trl="N">
+  <value column="Name" original="GST">GST</value>
+  <value column="Description" original="Canadian Federal Sales Tax">Taxe de vente fédérale du Canada</value>
+  <value column="TaxIndicator" original="GST">GST</value>
+ </row>
+ <row id="107" trl="N">
+  <value column="Name" original="PST">PST</value>
+  <value column="Description" original="Canadian Provintial Tax">Impôt provincial canadien</value>
+  <value column="TaxIndicator" original="PST">PST</value>
+ </row>
+ <row id="108" trl="N">
+  <value column="Name" original="GST/PST">TPS/TPS</value>
+  <value column="Description" original="Canadian Federal &amp; State Tax" xml:space="preserve">Impôt fédéral et d’État du Canada</value>
+  <value column="TaxIndicator" original="Tax">Tax</value>
+ </row>
+ <row id="109" trl="N">
+  <value column="Name" original="Exempt">Exonéré</value>
+  <value column="Description" original="Used when Business Partners are exempt from tax">Utilisé lorsque le partenaire d’affaires est exonéré de l’impôt</value>
+  <value column="TaxIndicator" original="" />
+ </row>
+</idempiereTrl>

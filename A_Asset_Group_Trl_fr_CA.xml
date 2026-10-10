@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="A_Asset_Group">
+ <row id="100" trl="N">
+  <value column="Name" original="Documentation">Documentation</value>
+  <value column="Description" original="Download Documentation">Télécharger la documentation</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50000" trl="N">
+  <value column="Name" original="Buildings">Bâtiments</value>
+  <value column="Description" original="Buildings">Bâtiments</value>
+  <value column="Help" original="All Buildings">Tous les bâtiments</value>
+ </row>
+ <row id="50001" trl="N">
+  <value column="Name" original="Software">Logiciels</value>
+  <value column="Description" original="Software">Logiciels</value>
+  <value column="Help" original="Software">Logiciels</value>
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="Documentation">Documentation</value>
+  <value column="Description" original="Download Documentation">Télécharger la documentation</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="Data Processing Equipment">Matériel de traitement des données</value>
+  <value column="Description" original="Data Processing Equipment">Matériel de traitement des données</value>
+  <value column="Help" original="Group defines Data Processing Equipment">Le groupe définit l’équipement de traitement des données</value>
+ </row>
+ <row id="50004" trl="N">
+  <value column="Name" original="Furniture">Mobilier</value>
+  <value column="Description" original="Furniture">Mobilier</value>
+  <value column="Help" original="Office furniture including office and shop">Mobilier de bureau, y compris bureau et magasin</value>
+ </row>
+ <row id="50005" trl="N">
+  <value column="Name" original="Fixtures">Installations</value>
+  <value column="Description" original="Fixtures">Installations</value>
+  <value column="Help" original="Fixtures including tools &amp; dies" xml:space="preserve">Fixations, y compris les outils et matrices</value>
+ </row>
+ <row id="50006" trl="N">
+  <value column="Name" original="Vehicles">Véhicules</value>
+  <value column="Description" original="Trucks Cars Vans Forklifts">Camions Voitures Vannes Chariots élévateurs</value>
+  <value column="Help" original="All vehicles">Tous les véhicules</value>
+ </row>
+ <row id="50007" trl="N">
+  <value column="Name" original="Equipment">Matériel</value>
+  <value column="Description" original="Equipment">Matériel</value>
+  <value column="Help" original="Light equipment including  test equipment and computers">Matériel léger, y compris matériel d’essai et ordinateurs</value>
+ </row>
+</idempiereTrl>

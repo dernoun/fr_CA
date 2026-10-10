@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="PA_ReportLine">
+ <row id="100" trl="Y">
+  <value column="Name" original="1">1</value>
+  <value column="Description" original="Activos">Actif</value>
+ </row>
+ <row id="101" trl="Y">
+  <value column="Name" original="11">11</value>
+  <value column="Description" original="Disponible">Trésorerie disponible</value>
+ </row>
+ <row id="102" trl="Y">
+  <value column="Name" original="13">13</value>
+  <value column="Description" original="Deudores">Créances</value>
+ </row>
+ <row id="103" trl="Y">
+  <value column="Name" original="12">12</value>
+  <value column="Description" original="Inversiones">Placements</value>
+ </row>
+ <row id="104" trl="Y">
+  <value column="Name" original="14">14</value>
+  <value column="Description" original="Inventarios">Stocks</value>
+ </row>
+ <row id="105" trl="Y">
+  <value column="Name" original="15">15</value>
+  <value column="Description" original="Propiedades Planta y Equipo">Immobilisations corporelles</value>
+ </row>
+ <row id="106" trl="Y">
+  <value column="Name" original="14_">14_</value>
+  <value column="Description" original="Total Activos Corrientes">Total de l’actif courant</value>
+ </row>
+ <row id="107" trl="Y">
+  <value column="Name" original="16">16</value>
+  <value column="Description" original="Intangibles">Immobilisations incorporelles</value>
+ </row>
+ <row id="108" trl="Y">
+  <value column="Name" original="17">17</value>
+  <value column="Description" original="Diferidos">Charges différées</value>
+ </row>
+ <row id="109" trl="Y">
+  <value column="Name" original="18">18</value>
+  <value column="Description" original="Otros Activos">Autres actifs</value>
+ </row>
+ <row id="110" trl="Y">
+  <value column="Name" original="19">19</value>
+  <value column="Description" original="Valorizaciones">Réévaluations</value>
+ </row>
+ <row id="111" trl="Y">
+  <value column="Name" original="19_">19_</value>
+  <value column="Description" original="Activos Fijos y Otros">Immobilisations et autres actifs</value>
+ </row>
+ <row id="112" trl="Y">
+  <value column="Name" original="2">2</value>
+  <value column="Description" original="Pasivos">Passif</value>
+ </row>
+ <row id="113" trl="Y">
+  <value column="Name" original="21">21</value>
+  <value column="Description" original="Obligaciones Financieras">Dettes financières</value>
+ </row>
+ <row id="114" trl="Y">
+  <value column="Name" original="22">22</value>
+  <value column="Description" original="Proveedores">Fournisseurs</value>
+ </row>
+ <row id="115" trl="Y">
+  <value column="Name" original="23">23</value>
+  <value column="Description" original="Cuentas por Pagar">Comptes fournisseurs</value>
+ </row>
+ <row id="116" trl="Y">
+  <value column="Name" original="24">24</value>
+  <value column="Description" original="Impuestos Gravámenes y Tasas">Impôts, droits et taxes</value>
+ </row>
+ <row id="117" trl="Y">
+  <value column="Name" original="3">3</value>
+  <value column="Description" original="Capital">Capital</value>
+ </row>
+ <row id="118" trl="Y">
+  <value column="Name" original="31">31</value>
+  <value column="Description" original="Capital Social">Capital social</value>
+ </row>
+ <row id="119" trl="Y">
+  <value column="Name" original="32">32</value>
+  <value column="Description" original="Superavit de Capital">Surplus d’apport</value>
+ </row>
+ <row id="120" trl="Y">
+  <value column="Name" original="33">33</value>
+  <value column="Description" original="Total Pasivo y Capital">Total du passif et des capitaux propres</value>
+ </row>
+ <row id="121" trl="Y">
+  <value column="Name" original="1__">1__</value>
+  <value column="Description" original="Total Activos">Total de l’actif</value>
+ </row>
+ <row id="122" trl="Y">
+  <value column="Name" original="2__">2__</value>
+  <value column="Description" original="Total Pasivos">Total du passif</value>
+ </row>
+ <row id="123" trl="Y">
+  <value column="Name" original="4">4</value>
+  <value column="Description" original="Ingresos">Produits</value>
+ </row>
+ <row id="124" trl="Y">
+  <value column="Name" original="4275">4275</value>
+  <value column="Description" original="Descuentos en Ventas">Rabais sur ventes</value>
+ </row>
+ <row id="125" trl="Y">
+  <value column="Name" original="6">6</value>
+  <value column="Description" original="Costo de Ventas">Coût des ventes</value>
+ </row>
+ <row id="126" trl="Y">
+  <value column="Name" original="6225">6225</value>
+  <value column="Description" original="Devoluciones">Retours sur ventes</value>
+ </row>
+ <row id="130" trl="Y">
+  <value column="Name" original="6_">6_</value>
+  <value column="Description" original="Margen Bruto">Marge brute</value>
+ </row>
+ <row id="131" trl="Y">
+  <value column="Name" original="5105">5105</value>
+  <value column="Description" original="Gastos de Personal">Charges de personnel</value>
+ </row>
+</idempiereTrl>

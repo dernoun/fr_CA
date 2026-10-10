@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="PA_DashboardContent">
+ <row id="50001" trl="N">
+  <value column="Name" original="Favorites">Raccourcis</value>
+  <value column="Description" original="User favorites">Raccourcis de l'utilisateur</value>
+  <value column="Help" original="Set your favorite menu from menu tree panel or drag and drop menu item to favorite dashboard panel. Right click on favorite item to remove. You can organize your favorites by folder.">Définissez votre menu préféré à partir du panneau de menu arborescence ou faites glisser et déposer l’élément de menu dans le panneau de tableau de bord favori. Faites un clic droit sur l’élément favori à supprimer. Vous pouvez organiser vos favoris par dossier.</value>
+  <value column="HTML" original="" />
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="Views">Vues</value>
+  <value column="Description" original="Info views">Info vues</value>
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="Performance">Rendement</value>
+  <value column="Description" original="Performance meters">Compteurs de performances</value>
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+ <row id="50004" trl="N">
+  <value column="Name" original="Calendar">Calendrier</value>
+  <value column="Description" original="Request Calendar">Calendrier des requêtes</value>
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Recent Items">Historique</value>
+  <value column="Description" original="Recent items">Derniers enregistrements modifiés</value>
+  <value column="Help" original="Show your latest opened document. Drag and drop a recent item to trash bin to remove it.">Affichez votre dernier document ouvert. Faites glisser et déposez un article récent dans la poubelle pour l’enlever.</value>
+  <value column="HTML" original="" />
+ </row>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Running Jobs">Tâches de fond</value>
+  <value column="Description" original="Running Jobs">Tâches de fond</value>
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+ <row id="200003" trl="Y">
+  <value column="Name" original="Activities">Mon activité</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+ <row id="200005" trl="N">
+  <value column="Name" original="Donate">Faire un don</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="HTML" original="&lt;iframe src=&quot;https://www.idempiere.org/short-donate/&quot; style=&quot;border-top-width: 0px;border-bottom-width: 0px;border-right-width: 0px;border-left-width: 0px;width: 100%;height: 450px;&quot;&gt;&lt;/iframe&gt;" xml:space="preserve">&lt;iframe src="https://www.idempiere.org/short-donate/" style="border-top-width: 0px;border-bottom-width: 0px;border-right-width: 0px;border-left-width: 0px;width: 100%;height: 450px;"&gt;&lt;/iframe&gt;</value>
+ </row>
+ <row id="200018" trl="Y">
+  <value column="Name" original="KPI1">KPI1</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+ <row id="200019" trl="Y">
+  <value column="Name" original="KPI2">KPI2</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="HTML" original="" />
+ </row>
+</idempiereTrl>

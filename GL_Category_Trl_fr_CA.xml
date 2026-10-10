@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="GL_Category">
+ <row id="0" trl="N">
+  <value column="Name" original="None">Aucune</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="108" trl="Y">
+  <value column="Name" original="Manual">Manuel</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="109" trl="Y">
+  <value column="Name" original="AR Invoice">Facture client</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="110" trl="Y">
+  <value column="Name" original="AR Receipt">Paiement client</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="111" trl="N">
+  <value column="Name" original="Material Management">Gestion du matériel</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="112" trl="Y">
+  <value column="Name" original="AP Invoice">Facture fournisseur</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="113" trl="Y">
+  <value column="Name" original="AP Payment">Paiement fournisseur</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="50000" trl="N">
+  <value column="Name" original="Payroll">Tableau de paie</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Manufacturing">Fabrication</value>
+  <value column="PrintName" original="" />
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="Distribution">Répartition</value>
+  <value column="PrintName" original="" />
+ </row>
+</idempiereTrl>

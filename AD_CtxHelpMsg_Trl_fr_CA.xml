@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="AD_CtxHelpMsg">
+ <row id="200000" trl="Y">
+  <value column="MsgText" original="&lt;p&gt;Welcome to iDempiere!&lt;/p&gt;&#10;&#10;&lt;p&gt;Start exploring your workspace, managing data, and customizing your experience.&lt;/p&gt;&#10;&#10;&lt;p&gt;Need help? Check out our &lt;a href=&quot;https://docs.idempiere.org/docs/getting-started&quot; target=&quot;_blank&quot;&gt;Getting Started Guide&lt;/a&gt;.&lt;/p&gt;&#10;" xml:space="preserve">&lt;p&gt;Bienvenue dans iDempiere!&lt;/p&gt;
+
+&lt;p&gt;Explorez votre espace de travail, gérez vos données et personnalisez votre environnement.&lt;/p&gt;
+
+&lt;p&gt;Besoin d’aide? Consultez notre &lt;a href="https://docs.idempiere.org/docs/getting-started" target="_blank"&gt;guide de démarrage&lt;/a&gt;.&lt;/p&gt;
+</value>
+ </row>
+</idempiereTrl>

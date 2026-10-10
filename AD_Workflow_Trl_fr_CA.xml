@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="AD_Workflow">
+ <row id="101" trl="N">
+  <value column="Name" original="Project Setup and Use">Configuration et utilisation du projet</value>
+  <value column="Description" original="Setup of projects and project reporting">Mise en place des projets et établissement de rapports sur les projets</value>
+  <value column="Help" original="Projects allow to monitor the status and progress of sales opportunities, service projects and investment projects. A Project is a process that is undertaken which can involve multiple steps or phases and require resources from more than one area.">Les projets permettent de suivre l’état et l’évolution des possibilités de vente, des projets de services et des projets d’investissement. Un projet est un processus qui peut comporter plusieurs étapes ou phases et nécessiter des ressources de plus d’un domaine.</value>
+ </row>
+ <row id="103" trl="N">
+  <value column="Name" original="Language Setup">Configuration des langues</value>
+  <value column="Description" original="Setup a new Language of the system and translate elements">Configurer un nouveau langage du système et traduire des éléments</value>
+  <value column="Help" original="Define a new language as a system language.">Définir une nouvelle langue comme langue système.</value>
+ </row>
+ <row id="104" trl="Y">
+  <value column="Name" original="Initial Tenant Setup Review">Vérification de la configuration initiale de la société</value>
+  <value column="Description" original="Review of system level setup of a new  Tenant">Vérifier la configuration système d’une nouvelle société</value>
+  <value column="Help" original="This workflow reviews the system setup of a new tenant as performed by the automatic Initial Tenant Setup.&#10;You may want to check also the following Workflows:&#10;- Accounting Setup&#10;- Business Partner Setup&#10;- Product Setup&#10;- Price list Setup&#10;- Warehouse Setup&#10;- Tax Setup">Ce flux de travail vérifie la configuration d’une nouvelle société créée par le processus automatique de configuration initiale.
+Vous pouvez aussi vérifier les flux de travail suivants :
+- Configuration comptable
+- Configuration des partenaires commerciaux
+- Configuration des produits
+- Configuration des listes de prix
+- Configuration des entrepôts
+- Configuration des taxes</value>
+ </row>
+ <row id="105" trl="N">
+  <value column="Name" original="Accounting Setup">Établissement de la comptabilité</value>
+  <value column="Description" original="Review and change Accounting Setup">Révision et modification de la structure comptable</value>
+  <value column="Help" original="This workflow allows you to review and change your Accounting Rules. ">Ce flux de travail vous permet d’examiner et de modifier vos règles comptables. </value>
+ </row>
+ <row id="106" trl="N">
+  <value column="Name" original="Business Partner Setup">société partenaire Mise en place</value>
+  <value column="Description" original="Setup Business Partner Rules">Règles d’établissement des partenaires commerciaux</value>
+  <value column="Help" original="This workflow defines the Business Partners and the supporting rules.">Ce flux de travail définit le partenaire d’affaires et les règles d’accompagnement.</value>
+ </row>
+ <row id="107" trl="N">
+  <value column="Name" original="Product Setup">Configuration du produit</value>
+  <value column="Description" original="Set up Products">Configurer les produits</value>
+  <value column="Help" original="Define your products manually. You should verify the settings especially if you import your products.">Définissez vos produits manuellement. Vous devriez vérifier les paramètres surtout si vous importez vos produits.</value>
+ </row>
+ <row id="108" trl="N">
+  <value column="Name" original="Price List Setup">Configuration de la liste de prix</value>
+  <value column="Description" original="Define your Price Lists and Discounts">Définissez vos listes de prix et rabais</value>
+  <value column="Help" original="You define your price lists after entering or importing your products. In addition to price lists, you can define discounts for business partners.  Assign specific Price Lists and Discounst to Business Partners.">Vous définissez vos listes de prix après avoir entré ou importé vos produits. En plus des listes de prix, vous pouvez définir des rabais pour les partenaires commerciaux.  Assigner des listes de prix spécifiques et les divulguer à un partenaire d’affaires.</value>
+ </row>
+ <row id="110" trl="N">
+  <value column="Name" original="Tax Setup">Régime fiscal</value>
+  <value column="Description" original="Setup tax calculation">Calcul de la taxe d’installation</value>
+  <value column="Help" original="Setup the tax calculation for products, services and charges">Établissement du calcul de la taxe sur les produits, services et redevances</value>
+ </row>
+ <row id="111" trl="N">
+  <value column="Name" original="Sales Setup">Mise en place des ventes</value>
+  <value column="Description" original="Setup Sales">Mise en place des ventes</value>
+  <value column="Help" original="Setting up Sales Representatives, Commissions as well as Marketing Channels and Campaigns.">Création de représentants des ventes, de commissions ainsi que de canaux de marketing et de campagnes.</value>
+ </row>
+ <row id="112" trl="N">
+  <value column="Name" original="Performance Measurement Setup">Mise en place de la mesure du rendement</value>
+  <value column="Description" original="Setup your Performance Measurement">Configurez votre mesure des performances</value>
+  <value column="Help" original="This workflow guides you through setting up your performance measurement based on Key Performance Indicators, Balanced Scorecard, etc.&#10;&#10;Most important: Do your analysis first!&#10;- What are your goals and how do you measure it?&#10;&#10;When you are setting up the system, you do it in reverse:&#10;First you define how you measure it and last you define the goals for the measurements.&#10;You have three ways measuring performance:&#10;- via quantifiable measures (e.g. sales of $3 million in Q1)&#10;- via manual measures&#10;- via achievements (tasks)&#10;&#10;The system converts the measures into percentages (based on the target and achieved measure - or number of total and reached achievements)">Ce workflow vous guide dans la mise en place de votre mesure de performance basée sur des indicateurs clés de rendement, un tableau de bord équilibré, etc.
+
+Le plus important: Faites votre analyse d’abord!
+- Quels sont vos objectifs et comment les mesurer ?
+
+Lorsque vous configurez le système, vous le faites en sens inverse :
+Tout d’abord, vous définissez comment vous le mesurez et, enfin, vous définissez les objectifs pour les mesures.
+Vous avez trois façons de mesurer la performance :
+- par des mesures quantifiables (par exemple, ventes de $3 en millions au 1er trimestre
+- par des mesures manuelles
+- par des réalisations (tâches)
+
+Le système convertit les mesures en pourcentages (sur la base de l’objectif et de la mesure atteinte - ou du nombre total et des résultats atteints)</value>
+ </row>
+ <row id="113" trl="N">
+  <value column="Name" original="Request Setup">Configuration de la requête</value>
+  <value column="Description" original="Set up the tenant to process requests">Configurer la société pour traiter les demandes</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="115" trl="N">
+  <value column="Name" original="Process_Requisition">Process_Requisition</value>
+  <value column="Description" original="(Standard Process_Requisition)">(norme) Process_Requisition)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="116" trl="N">
+  <value column="Name" original="Process_Order">Process_Order</value>
+  <value column="Description" original="(Standard Process Order)">(Ordonnance de procédure standard)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="117" trl="N">
+  <value column="Name" original="Process_Shipment">Process_Shipment</value>
+  <value column="Description" original="(Standard Process Shipment)">(Expédition de processus standard)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="118" trl="N">
+  <value column="Name" original="Process_Invoice">Process_Invoice</value>
+  <value column="Description" original="(Standard Process Invoice)">( Facture normalisée du processus)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="120" trl="N">
+  <value column="Name" original="Process_Payment">Process_Payment</value>
+  <value column="Description" original="(Standard Process Payment)">(Paiement selon la procédure standard)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="121" trl="N">
+  <value column="Name" original="Process_Journal">Process_Journal</value>
+  <value column="Description" original="(Standard Process Journal)">(Journal des procédures normalisées)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="122" trl="N">
+  <value column="Name" original="Process_JournalBatch">Process_JournalBatch</value>
+  <value column="Description" original="(Standard Process Journal Batch)">(Boîte de journal à processus standard)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="123" trl="N">
+  <value column="Name" original="Process_RMA">Process_RMA</value>
+  <value column="Description" original="(Standard Process_RMA)">(norme) Process_RMA)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="124" trl="N">
+  <value column="Name" original="Process_InOutConfirm">Process_InOutConfirm</value>
+  <value column="Description" original="(Standard Process Confirmation)">(Confirmation du processus normalisé)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="125" trl="N">
+  <value column="Name" original="Process_Allocation">Process_Allocation</value>
+  <value column="Description" original="(Standard Process Allocation)">(Répartition des processus normalisés)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="126" trl="N">
+  <value column="Name" original="Process_TimeExpense">Process_TimeExpense</value>
+  <value column="Description" original="(Standard Process Time Expense)">(Dépense normale de temps du processus)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="127" trl="N">
+  <value column="Name" original="Process_Inventory">Process_Inventory</value>
+  <value column="Description" original="(Standard Process Inventory)">(Inventaire des processus normalisés)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="128" trl="N">
+  <value column="Name" original="Process_Movement">Process_Movement</value>
+  <value column="Description" original="(Standard Process Movement)">(Mouvement du processus normalisé)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="129" trl="N">
+  <value column="Name" original="Process_MovementConfirm">Process_MovementConfirm</value>
+  <value column="Description" original="(Standard Process Movement Confirmation)">(Confirmation du mouvement du processus normalisé)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="130" trl="N">
+  <value column="Name" original="Process_BankStatement">Process_BankStatement</value>
+  <value column="Description" original="(Standard Process Bank Statement)">(Déclaration de la banque du processus normalisé)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="131" trl="N">
+  <value column="Name" original="Business Partner Approval">approbation du partenaire d’affaires</value>
+  <value column="Description" original="Example Document based workflow">Exemple de flux de travail basé sur les documents</value>
+  <value column="Help" original="When a new Business Partner is created, it is forwarded for review and credit check.">Lorsqu’un nouveau partenaire d’affaires est créé, il est transmis pour examen et vérification de crédit.</value>
+ </row>
+ <row id="50012" trl="N">
+  <value column="Name" original="Setup Replication">Réplication de configuration</value>
+  <value column="Description" original="Setup of data replication">Configuration de la réplication des données</value>
+  <value column="Help" original="Data Replication allows you to synchronize data of remote instances with a central office.  All actions are initialized from the central office.&lt;p&gt;&#10;&lt;b&gt;Central System:&lt;/b&gt;&lt;br&gt;&#10;- setup system with all organizations, roles, etc.&lt;br&gt;&#10;- run the migration to make sure that it is up-to-date&lt;br&gt;&#10;- export the central system&lt;br&gt;&#10;&lt;p&gt;&#10;&lt;b&gt;Remote System:&lt;/b&gt;&#10;- install the exact version as Central System&lt;br&gt;&#10;- import data from Central System in the remote locations&lt;br&gt;&#10;&lt;p&gt;&#10;&lt;b&gt;Central System:&lt;/b&gt;&#10;- Replication Strategy&lt;br&gt;&#10;- Define Export Format&lt;br&gt;&#10;- Config Export Processor&lt;br&gt;&#10;- Start JMS Server&lt;br&gt;&#10;&lt;p&gt;&#10;** Enter Transactions **&#10;&lt;p&gt;&#10;&lt;b&gt;Remote System:&lt;/b&gt;&lt;br&gt;&#10;- Config Import Processor&lt;br&gt;" xml:space="preserve">Data Replication vous permet de synchroniser les données des instances distantes avec un bureau central.  Toutes les actions sont initiées à partir du bureau central.&lt;p&gt;
+&lt;b&gt;Système central:&lt;/b&gt;&lt;br&gt;
+- système de configuration avec toutes les organisations, rôles, etc.&lt;br&gt;
+- effectuer la migration pour s’assurer qu’elle est à jour&lt;br&gt;
+- exporter le système central&lt;br&gt;
+&lt;p&gt;
+&lt;b&gt;Système à distance &amp; #160;:&lt;/b&gt;
+- installer la version exacte en tant que système central&lt;br&gt;
+- Importer des données du système central dans les endroits éloignés&lt;br&gt;
+&lt;p&gt;
+&lt;b&gt;Système central:&lt;/b&gt;
+- Stratégie de réplication&lt;br&gt;
+- Définir le format d’exportation&lt;br&gt;
+- Config Processeur d’exportation&lt;br&gt;
+- Démarrer le serveur JMS&lt;br&gt;
+&lt;p&gt;
+** Entrer les opérations **
+&lt;p&gt;
+&lt;b&gt;Système à distance &amp; #160;:&lt;/b&gt;&lt;br&gt;
+- Config Processeur d’importation&lt;br&gt;</value>
+ </row>
+ <row id="50015" trl="N">
+  <value column="Name" original="Patio Chair">Président de Patio</value>
+  <value column="Description" original="Routing for Assembly the Patio Chair">Routage pour l’Assemblée le Président Patio</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50016" trl="N">
+  <value column="Name" original="Lawn Fertilizer">Engrais de pelouse</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50017" trl="N">
+  <value column="Name" original="Fertilizer Packing Process">Engrais Processus d’emballage</value>
+  <value column="Description" original="Production Line to Packing the Fertilizer Bag 50 and 70 kg ">Ligne de production pour l’emballage du sac d’engrais 50 et 70 kg </value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50018" trl="N">
+  <value column="Name" original="Patio Furniture Set">Ensemble de meubles patio</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50020" trl="Y">
+  <value column="Name" original="Process_Asset_Adition">Process_Asset_Adition</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50021" trl="Y">
+  <value column="Name" original="Process_Asset_Disposed">Process_Asset_Disposed</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50022" trl="Y">
+  <value column="Name" original="Process_Asset_Transfer">Process_Asset_Transfer</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50023" trl="Y">
+  <value column="Name" original="Process_Asset_Reval">Process_Asset_Reval</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50024" trl="N">
+  <value column="Name" original="Process Asset Depreciation Entry">Processus d’amortissement des actifs Entrée</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="200002" trl="Y">
+  <value column="Name" original="Process_Production">Process_Production</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="200005" trl="N">
+  <value column="Name" original="Process_BankTransfer">Process_BankTransfer</value>
+  <value column="Description" original="(Standard Process_BankTransfer)">(norme) Process_BankTransfer)</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="200007" trl="Y">
+  <value column="Name" original="Process_C_ProjectIssue">Process_C_ProjectIssue</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="200012" trl="N">
+  <value column="Name" original="Process_DepositBatch">Process_DepositBatch</value>
+  <value column="Description" original="(Standard Process Deposit Batch)">(Dépôt de procédé standard)</value>
+  <value column="Help" original="" />
+ </row>
+</idempiereTrl>

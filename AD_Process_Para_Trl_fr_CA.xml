@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="AD_Process_Para">
+ <row id="133" trl="N">
+  <value column="Name" original="Warehouse">Entrepôt</value>
+  <value column="Description" original="Storage Warehouse and Service Point">Entrepôt de stockage et point de service</value>
+  <value column="Help" original="The Warehouse identifies a unique Warehouse where products are stored or Services are provided.">Endroit où sont stockés les articles ou sont fournis les services</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="134" trl="N">
+  <value column="Name" original="Movement Type">Type mouvement</value>
+  <value column="Description" original="Method of moving the inventory">Méthode de déplacement du stock</value>
+  <value column="Help" original="The Movement Type indicates the type of movement (in, out, to production, etc)">Le type de mouvement indique le type de mouvement (dans, en dehors, à la production, etc.)</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="139" trl="N">
+  <value column="Name" original="Product">Produit</value>
+  <value column="Description" original="Product, Service, Item">Produit, service, article</value>
+  <value column="Help" original="Identifies an item which is either purchased or sold in this organization.">Indique un article qui est acheté ou vendu dans cette organisation.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="161" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="163" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="172" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="174" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="176" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="178" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="179" trl="N">
+  <value column="Name" original="Product Category">Catégorie de produits</value>
+  <value column="Description" original="Category of a Product">Catégorie de l'article</value>
+  <value column="Help" original="Identifies the category which this product belongs to.  Product categories are used for pricing and selection.">Indique la catégorie à laquelle appartient ce produit.  Les catégories de produits sont utilisées pour les prix et la sélection.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="180" trl="N">
+  <value column="Name" original="Product">Produit</value>
+  <value column="Description" original="Product, Service, Item">Produit, service, article</value>
+  <value column="Help" original="Identifies an item which is either purchased or sold in this organization.">Indique un article qui est acheté ou vendu dans cette organisation.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="189" trl="N">
+  <value column="Name" original="Product Category">Catégorie de produits</value>
+  <value column="Description" original="Category of a Product">Catégorie de l'article</value>
+  <value column="Help" original="Identifies the category which this product belongs to.  Product categories are used for pricing and selection.">Indique la catégorie à laquelle appartient ce produit.  Les catégories de produits sont utilisées pour les prix et la sélection.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="190" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="223" trl="Y">
+  <value column="Name" original="Tenant">Société</value>
+  <value column="Description" original="Tenant for this installation.">Société associée à cette installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Une société est une entreprise ou une entité juridique. Les données ne peuvent pas être partagées entre les sociétés.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="225" trl="Y">
+  <value column="Name" original="Tenant">Société</value>
+  <value column="Description" original="Tenant for this installation.">Société associée à cette installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Une société est une entreprise ou une entité juridique. Les données ne peuvent pas être partagées entre les sociétés.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="227" trl="N">
+  <value column="Name" original="Delete existing Accounting Entries">Supprimer les inscriptions comptables existantes</value>
+  <value column="Description" original="The selected accounting entries will be deleted!  DANGEROUS !!!">Les écritures comptables sélectionnées seront supprimées !  DANGEREUSES !!!</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="233" trl="N">
+  <value column="Name" original="Pricelist Version">Version de la liste de prix</value>
+  <value column="Description" original="Only used if Price List is used to set future/standard cost price">Uniquement si la liste de prix est utilisée pour fixer le prix des coûts futurs/standard</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="240" trl="Y">
+  <value column="Name" original="Business Partner ">Partenaire commercial</value>
+  <value column="Description" original="Identifies a Business Partner">Désigne un partenaire commercial</value>
+  <value column="Help" original="A Business Partner is anyone with whom you transact.  This can include Vendor, Customer, Employee or Salesperson">Un tiers est une entité avec laquelle vous êtes en affaire. &lt;br&gt;Il peut être client, fournisseur, salarié ou représentant</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="241" trl="N">
+  <value column="Name" original="Product">Produit</value>
+  <value column="Description" original="Product, Service, Item">Produit, service, article</value>
+  <value column="Help" original="Identifies an item which is either purchased or sold in this organization.">Indique un article qui est acheté ou vendu dans cette organisation.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="302" trl="N">
+  <value column="Name" original="Overwrite Payment Rule">Mode de paiement à utiliser</value>
+  <value column="Description" original="Overwrite how to pay the invoice">Remplacer la façon de payer la facture</value>
+  <value column="Help" original="The Payment Rule indicates how the incoice will be settled - you can overwrite the value from the invoice.">La règle de paiement indique comment l’incoice sera réglée - vous pouvez écraser la valeur à partir de la facture.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="315" trl="N">
+  <value column="Name" original="From User">De l’utilisateur</value>
+  <value column="Description" original="Send EMail from user">Envoyer un courriel de l’utilisateur</value>
+  <value column="Help" original="The email is sent from the user selected - otherwise it is sent from the request email address of the tenant">Le courriel est envoyé par l’utilisateur sélectionné; sinon, il est envoyé depuis l’adresse de courriel des demandes de la société</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="452" trl="N">
+  <value column="Name" original="Maintenance Mode">Mode d’entretien</value>
+  <value column="Description" original="Language Maintenance Mode">Mode de maintenance linguistique</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="467" trl="N">
+  <value column="Name" original="Existing Organization">Organisation actuelle</value>
+  <value column="Description" original="Organizational entity within tenant - set to empty if you want to create a new organization">Entité organisationnelle au sein de la société; laissez ce champ vide pour créer une organisation</value>
+  <value column="Help" original="An organization is a unit of your tenant or legal entity - examples are store, department. You can share data between organizations.">Une organisation est une unité de la société ou de l’entité juridique, par exemple un magasin ou un service. Les données peuvent être partagées entre les organisations.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="469" trl="N">
+  <value column="Name" original="Limit Access to Role">Limiter l’accès au rôle</value>
+  <value column="Description" original="If no Role is selected, grant access to all (non-manual) roles of the Tenant">Si aucun rôle n’est sélectionné, accorder l’accès à tous les rôles non manuels de la société</value>
+  <value column="Help" original="The Role determines security and access a user who has this Role will have in the System.">Permet de définir les accès aux données de l'application.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="493" trl="N">
+  <value column="Name" original="New User/Contact">Nouvel utilisateur/contact</value>
+  <value column="Description" original="User within the system - Internal or Business Partner Contact">Utilisateur de l'application / Contact d'un tiers</value>
+  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">L’utilisateur désigne un utilisateur unique du système, qu’il s’agisse d’un utilisateur interne ou d’un contact de partenaire commercial</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="494" trl="N">
+  <value column="Name" original="New Workflow Responsible">Nouveau responsable du flux de travail</value>
+  <value column="Description" original="Responsible for Workflow Execution">Responsable de l’exécution du flux de travail</value>
+  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">La responsabilité ultime d’un workflow est avec un utilisateur réel. Le Workflow Responsible permet de définir des façons de trouver cet utilisateur réel.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="496" trl="N">
+  <value column="Name" original="New User/Contact">Nouvel utilisateur/contact</value>
+  <value column="Description" original="User within the system - Internal or Business Partner Contact">Utilisateur de l'application / Contact d'un tiers</value>
+  <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">L’utilisateur désigne un utilisateur unique du système, qu’il s’agisse d’un utilisateur interne ou d’un contact de partenaire commercial</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="497" trl="N">
+  <value column="Name" original="New Workflow Responsible">Nouveau responsable du flux de travail</value>
+  <value column="Description" original="Responsible for Workflow Execution">Responsable de l’exécution du flux de travail</value>
+  <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">La responsabilité ultime d’un workflow est avec un utilisateur réel. Le Workflow Responsible permet de définir des façons de trouver cet utilisateur réel.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="523" trl="N">
+  <value column="Name" original="Default Sales Rep">Représentation par défaut des ventes</value>
+  <value column="Description" original="If not defined on Business Partner Level">Si elle n’est pas définie au niveau des partenaires commerciaux</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="524" trl="N">
+  <value column="Name" original="Dunning Currency">Rappel des paiements Devise</value>
+  <value column="Description" original="Currency to create Dunning Letters">Monnaie pour créer des lettres de rappel de paiement</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="50008" trl="N">
+  <value column="Name" original="IMAP Password">Mot de passe IMAP</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="50009" trl="N">
+  <value column="Name" original="Request Folder">Dossier de demande</value>
+  <value column="Description" original="After take email form inbox folder, and process it success, email will move to this folder">Après avoir pris le dossier boîte de réception de formulaire d’courriel, et le traiter avec succès, l’courriel se déplacera dans ce dossier</value>
+  <value column="Help" original="folder can define as hierarchy, use &quot;\&quot; to separate folder. example customer\vietnam&#10;will read email from folder vietnam under folder customer&#10;after take email form inbox folder, and process it success, email will move to this folder">dossier peut définir comme hiérarchie, utiliser "\" pour séparer le dossier. exemple client\vietnam
+lira l’courriel du dossier vietnam sous le dossier client
+après avoir pris le dossier de boîte de réception de formulaire d’courriel, et le traiter avec succès, courriel se déplacera dans ce dossier</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="50010" trl="N">
+  <value column="Name" original="Inbox Folder">Dossier de la boîte de réception</value>
+  <value column="Description" original="Mail folder, where process will take email and make request">Dossier courriel, où le processus va prendre courriel et faire la demande</value>
+  <value column="Help" original="folder can define as hierarchy, use &quot;\&quot; to separate folder. example customer\vietnam&#10;will read email from folder vietnam under folder customer">dossier peut définir comme hiérarchie, utiliser "\" pour séparer le dossier. exemple client\vietnam
+lira l’courriel du dossier vietnam sous le dossier client</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="50011" trl="N">
+  <value column="Name" original="Error Folder">Dossier d’erreur</value>
+  <value column="Description" original="Mail folder to push unsuccess email  ">Dossier de messagerie pour pousser l’courriel non réussi  </value>
+  <value column="Help" original="folder can define as hierarchy, use &quot;\&quot; to separate folder. example customer\error\vietnam&#10;will puss email can't process to folder vietnam under folder error under folder customer">dossier peut définir comme hiérarchie, utiliser "\" pour séparer dossier. exemple client\error\vietnam
+l’courriel puss ne peut pas traiter vers le dossier vietnam sous erreur de dossier sous client du dossier</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="50019" trl="N">
+  <value column="Name" original="Shipment Date">Date d’expédition</value>
+  <value column="Description" original="Date printed on shipment">Date d’impression à l’expédition</value>
+  <value column="Help" original="The Shipment Date indicates the date printed on the shipment.">La date d’expédition indique la date imprimée sur l’envoi.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53011" trl="N">
+  <value column="Name" original="Print Unprocessed Entries Only">N'imprimer que les relances non traitées</value>
+  <value column="Description" original="Print the unprocessed (unprinted) entries of the dunning run only.">Imprimez uniquement les entrées non traitées (non imprimées) du rappel de paiement.</value>
+  <value column="Help" original="Print the unprocessed (unprinted) entries of the dunning run only. This allows you to reprint only certain dunning entries.">Imprimez uniquement les entrées non traitées (non imprimées) du rappel de paiement. Cela vous permet de réimprimer seulement certaines entrées de rappel de paiement.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53025" trl="Y">
+  <value column="Name" original="PriceList_Version_ID">PriceList_Version_ID</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53030" trl="N">
+  <value column="Name" original="New Product">Nouveau produit</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53032" trl="Y">
+  <value column="Name" original="Action">Action</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53066" trl="N">
+  <value column="Name" original="Is Print Pack &amp; Tools List" xml:space="preserve">Liste des paquets d’impression et des outils</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53068" trl="N">
+  <value column="Name" original="Is Print Pick List">Est la liste de sélection d’impression</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53069" trl="N">
+  <value column="Name" original="Is Print Workflow">Est le flux de travail d’impression</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53131" trl="Y">
+  <value column="Name" original="ScriptsPath">ScriptsPath</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53142" trl="N">
+  <value column="Name" original="Includes only the Tabs that Insert records">Comprend seulement les onglets qui Insèrent des enregistrements</value>
+  <value column="Description" original="Generated Export Format for the Tabs with Insert Record is Yes">Format d’exportation généré pour les onglets avec l’enregistrement d’insertion est Oui</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53143" trl="N">
+  <value column="Name" original="Includes only the mandatory columns">Comprend uniquement les colonnes obligatoires</value>
+  <value column="Description" original="Generated an Export Format Line  if the column is mandatory ">Généré une ligne de format d’exportation si la colonne est obligatoire </value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53219" trl="N">
+  <value column="Name" original="Based in DRP Demand">Basé sur la demande en DRP</value>
+  <value column="Description" original="Based in DRP Demand">Basé sur la demande en DRP</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53232" trl="Y">
+  <value column="Name" original="Bank Account From">Compte émetteur</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53233" trl="Y">
+  <value column="Name" original="Bank Account To">Compte destinataire</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53243" trl="N">
+  <value column="Name" original="Valid from">Valide à partir du</value>
+  <value column="Description" original="Valid from including this date (first day)">Valable à partir de l’inclusion de cette date (premier jour)</value>
+  <value column="Help" original="The Valid From date indicates the first day of a date range">La date Valable de la date indique le premier jour d’une plage de dates</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53246" trl="Y">
+  <value column="Name" original="Bank Account From">Compte émetteur</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53247" trl="Y">
+  <value column="Name" original="Bank Account To">Compte destinataire</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53263" trl="N">
+  <value column="Name" original="Account Date">Date comptable</value>
+  <value column="Description" original="Optional account date range">Plage de date du compte optionnelle</value>
+  <value column="Help" original="Only documents within this date range which are also in open periods will be reset.">Seuls les documents dans cette plage de dates qui sont également en périodes ouvertes seront réinitialisés.</value>
+  <value column="Placeholder" original="From">De</value>
+  <value column="Placeholder2" original="To">à</value>
+ </row>
+ <row id="53282" trl="Y">
+  <value column="Name" original="Tenant Name">Nom de la société</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53284" trl="N">
+  <value column="Name" original="Administrative User Name">Nom de l’utilisateur administratif</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53285" trl="N">
+  <value column="Name" original="Normal User Name">Nom d’utilisateur normal</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53289" trl="N">
+  <value column="Name" original="City Name">Nom de la ville</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53291" trl="N">
+  <value column="Name" original="BP Accounting">BP Comptabilité</value>
+  <value column="Description" original="Use BP accounting dimension">Utiliser la dimension comptable BP</value>
+  <value column="Help" original="Define if this tenant will use business partner accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Détermine si la société utilise la dimension comptable Partenaire commercial. Ce choix peut être modifié ultérieurement dans la fenêtre Schéma comptable de la société.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53292" trl="N">
+  <value column="Name" original="Product Accounting">Comptabilité des produits</value>
+  <value column="Description" original="Use Product accounting dimension">Utiliser la dimension comptable des produits</value>
+  <value column="Help" original="Define if this tenant will use product accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Détermine si la société utilise la dimension comptable Produit. Ce choix peut être modifié ultérieurement dans la fenêtre Schéma comptable de la société.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53293" trl="N">
+  <value column="Name" original="Project Accounting">Comptabilité des projets</value>
+  <value column="Description" original="Use Project accounting dimension">Utiliser la dimension comptable du projet</value>
+  <value column="Help" original="Define if this tenant will use project accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Détermine si la société utilise la dimension comptable Projet. Ce choix peut être modifié ultérieurement dans la fenêtre Schéma comptable de la société.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53294" trl="N">
+  <value column="Name" original="Campaign Accounting">Comptabilité des campagnes</value>
+  <value column="Description" original="Use Campaign accounting dimension">Utiliser la dimension comptable de la campagne</value>
+  <value column="Help" original="Define if this tenant will use campaign accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Détermine si la société utilise la dimension comptable Campagne. Ce choix peut être modifié ultérieurement dans la fenêtre Schéma comptable de la société.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53295" trl="N">
+  <value column="Name" original="Sales Region Accounting">Comptabilité de la région des ventes</value>
+  <value column="Description" original="Use Sales Region accounting dimension">Utiliser la dimension comptable de la région des ventes</value>
+  <value column="Help" original="Define if this tenant will use sales region accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Détermine si la société utilise la dimension comptable Région de vente. Ce choix peut être modifié ultérieurement dans la fenêtre Schéma comptable de la société.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53296" trl="N">
+  <value column="Name" original="Chart of Accounts File">Dossier du plan comptable</value>
+  <value column="Description" original="Location of the chart of accounts to be used with this tenant.  At this stage just the default accounts will be created.">Emplacement du plan comptable à utiliser pour la société. À cette étape, seuls les comptes par défaut sont créés.</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53314" trl="N">
+  <value column="Name" original="Full rebuild">Reconstruction complète</value>
+  <value column="Description" original="Delete all existing summary data and recalculate.">Supprimer toutes les données sommaires existantes et recalculer.</value>
+  <value column="Help" original="If not selected, only those periods with recently posted accounting facts will be recalculated.">S’il n’est pas choisi, seules les périodes dont les faits comptables sont enregistrés récemment seront recalculées.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53316" trl="N">
+  <value column="Name" original="Force">Forcer</value>
+  <value column="Description" original="Force rebuild of cube even if locked.">Forcer la reconstruction de cube même si verrouillé.</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53485" trl="N">
+  <value column="Name" original="Periodicity">Périodicité</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53486" trl="N">
+  <value column="Name" original="Repetitions">Répétitions</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53516" trl="N">
+  <value column="Name" original="Recreate">Recréer</value>
+  <value column="Description" original="Overwrite existing production lines">Suppression des lignes de production existantes</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53517" trl="N">
+  <value column="Name" original="Production Quantity">Quantité de production</value>
+  <value column="Description" original="Quantity of products to produce">Quantité de produits à produire</value>
+  <value column="Help" original="The Production Quantity identifies the number of products to produce">La quantité de production indique le nombre de produits à produire</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53526" trl="Y">
+  <value column="Name" original="Is Kanban">IsExcludeKanban</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="53582" trl="N">
+  <value column="Name" original="CreateOpportunity">CreateOpportunity</value>
+  <value column="Description" original="Create Opportunity">Créer une opportunité</value>
+  <value column="Help" original="Create a new Sales Opportunity when converting a lead">Créer une nouvelle opportunité de vente lors de la conversion d’une avance</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Project">Projet</value>
+  <value column="Description" original="Financial Project">Projet financier</value>
+  <value column="Help" original="A Project allows you to track and control internal or external activities.">Un projet vous permet de suivre et de contrôler les activités internes ou externes.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200005" trl="N">
+  <value column="Name" original="New EMail Confirm">Nouveau courriel Confirmer</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200007" trl="N">
+  <value column="Name" original="Reset Existing Access">Réinitialiser l’accès existant</value>
+  <value column="Description" original="Reset Existing Access">Réinitialiser l’accès existant</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200055" trl="Y">
+  <value column="Name" original="Product">Produit</value>
+  <value column="Description" original="Please enter the product (component) you wish to search for">Product, Service, Item</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200071" trl="N">
+  <value column="Name" original="Document Type">Type de document</value>
+  <value column="Description" original="Inventory Cost Adjustment Document Type">Type de document de rajustement des coûts d’inventaire</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200074" trl="N">
+  <value column="Name" original="Administrative User Email">Adresse électronique de l’utilisateur administratif</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200075" trl="Y">
+  <value column="Name" original="Normal User Email">Courriel de l’utilisateur</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200077" trl="N">
+  <value column="Name" original="Created Since">Créée depuis</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200084" trl="N">
+  <value column="Name" original="Use Default CoA">Utiliser le CoA par défaut</value>
+  <value column="Description" original="Use Default Chart of Accounts">Utiliser le tableau des comptes par défaut</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200085" trl="N">
+  <value column="Name" original="Activity Accounting">Comptabilité des activités</value>
+  <value column="Description" original="Use Activity accounting dimension">Utiliser la dimension comptable des activités</value>
+  <value column="Help" original="Define if this tenant will use activity accounting dimension.  This can be changed later in Accounting Schema window of the tenant.">Détermine si la société utilise la dimension comptable Activité. Ce choix peut être modifié ultérieurement dans la fenêtre Schéma comptable de la société.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200086" trl="N">
+  <value column="Name" original="Inactivate Defaults">Désactiver les valeurs par défaut</value>
+  <value column="Description" original="Inactivate Defaults after Created">Inactiver les valeurs par défaut après création</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200102" trl="N">
+  <value column="Name" original="Cost Adjustment Document Type">Type de document de rajustement des coûts</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200121" trl="N">
+  <value column="Name" original="Inbox As Root Folder">Boîte de réception comme dossier racine</value>
+  <value column="Description" original="True if other folder (request, error,..) occupy in inbox folder">Vrai si un autre dossier (demande, erreur,..) occupe le dossier de boîte de réception</value>
+  <value column="Help" original="Some email server as outlook, every folder occupy in inbox, with web mail as google, we easy create my folder outside inbox folder.&#10;this field define where request, error,.. occupy.">Certains serveurs de messagerie comme des perspectives, chaque dossier occupe dans la boîte de réception, avec le courrier Web comme google, nous créons facilement mon dossier en dehors du dossier de boîte de réception.
+ce champ définit où requête, erreur,.. occuper.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200226" trl="N">
+  <value column="Name" original="Folder">Dossier</value>
+  <value column="Description" original="Path on the server where the pack in files are located">Chemin sur le serveur où se trouve le paquet dans les fichiers</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200287" trl="Y">
+  <value column="Name" original="Tenant">Société</value>
+  <value column="Description" original="Tenant for this installation.">Société associée à cette installation.</value>
+  <value column="Help" original="A Tenant is a company or a legal entity. You cannot share data between Tenants.">Une société est une entreprise ou une entité juridique. Les données ne peuvent pas être partagées entre les sociétés.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200293" trl="N">
+  <value column="Name" original="Delete old/existing files">Supprimer les fichiers anciens/existants</value>
+  <value column="Description" original="Delete the records from the old storage provider after moved">Supprimer les enregistrements de l’ancien fournisseur de stockage après avoir déplacé</value>
+  <value column="Help" original="WARNING!  This option cannot be rolled back!  Be cautious, take backups.  If not enabled, the system administrator can/must remove manually the old files from the previous storage provider later.">ATTENTION! Cette option est irréversible. Procédez avec prudence et effectuez des sauvegardes. Si elle n’est pas activée, l’administrateur système pourra ou devra supprimer manuellement les anciens fichiers de l’ancien fournisseur de stockage.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200359" trl="N">
+  <value column="Name" original="Create 'Value' column">Créer la colonne ’Valeur’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200360" trl="N">
+  <value column="Name" original="Create 'Name' column">Créer la colonne ’Nom’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200361" trl="N">
+  <value column="Name" original="Create KeyColumn">Créer une colonne clé</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200362" trl="N">
+  <value column="Name" original="Create a Workflow">Créer un flux de travail</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200363" trl="N">
+  <value column="Name" original="Create a Translation Table">Créer une table de traduction</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200364" trl="N">
+  <value column="Name" original="Create 'Description' column">Créer la colonne ’Description’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200365" trl="N">
+  <value column="Name" original="Create 'Help' column">Créer la colonne ’Aide’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200366" trl="N">
+  <value column="Name" original="Create 'DocumentNo' column">Créer la colonne ’DocumentNo’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200367" trl="N">
+  <value column="Name" original="Create 'DocAction' column">Créer la colonne ’DocAction’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200368" trl="N">
+  <value column="Name" original="Create 'DocStatus' column">Créer la colonne ’DocStatus’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200369" trl="N">
+  <value column="Name" original="Create 'Processed' column">Créer une colonne ’Processé’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200370" trl="N">
+  <value column="Name" original="Create 'ProcessedOn' column">Créer la colonne ’ProcesséOn’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200371" trl="N">
+  <value column="Name" original="Create 'Processing' column">Créer la colonne ’Processus’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200372" trl="N">
+  <value column="Name" original="Create 'C_DocTypeTarget_ID' column">Créer ’C_DocTypeTarget_ID’ colonne</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200373" trl="N">
+  <value column="Name" original="Create 'C_DocType_ID' column">Créer ’C_DocType_ID’ colonne</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200374" trl="N">
+  <value column="Name" original="Create 'C_Currency_ID' column">Créer ’C_Currency_ID’ colonne</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200375" trl="N">
+  <value column="Name" original="Create 'DateTrx' column">Créer la colonne ’DateTrx’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200376" trl="N">
+  <value column="Name" original="Create 'DateAcct' column">Créer la colonne ’DateAcct’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200377" trl="N">
+  <value column="Name" original="Create 'Posted' column">Créer ’Enregistré dans la colonne comptes’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200378" trl="N">
+  <value column="Name" original="Create 'IsApproved' column">Créer une colonne ’IsApproved’</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200379" trl="N">
+  <value column="Name" original="Create 'SalesRep_ID' column">Créer ’SalesRep_ID’ colonne</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200380" trl="N">
+  <value column="Name" original="Create 'AD_User_ID' column">Créer ’AD_User_ID’ colonne</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200384" trl="N">
+  <value column="Name" original="Also Without Postings">Sans écritures comptables</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200392" trl="N">
+  <value column="Name" original="Shipment Date">Date d’expédition</value>
+  <value column="Description" original="Date printed on shipment">Date d’impression à l’expédition</value>
+  <value column="Help" original="The Shipment Date indicates the date printed on the shipment.">La date d’expédition indique la date imprimée sur l’envoi.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200393" trl="N">
+  <value column="Name" original="Orders with unconfirmed Shipments">Commandes avec expéditions non confirmées</value>
+  <value column="Description" original="Generate shipments for Orders with open delivery confirmations?">Générer des envois pour les commandes avec des confirmations de livraison ouvertes?</value>
+  <value column="Help" original="You can also include orders who have outstanding confirmations (e.g. ordered=10 - not confirmed shipments=4 - would create a new shipment of 6 if available).">Vous pouvez également inclure les commandes qui ont des confirmations en suspens (p. ex.10 - expéditions non confirmées=4 - créerait une nouvelle expédition de 6 si disponible).</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200417" trl="Y">
+  <value column="Name" original="AD_Language">AD_Language</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200418" trl="N">
+  <value column="Name" original="Date To">Date à laquelle</value>
+  <value column="Description" original="Last Date to verify Change Log">Dernière date pour vérifier le journal des modifications</value>
+  <value column="Help" original="The change log is verified until this date (useful for example to exclude the application of some 2Packs)">Le journal des changements est vérifié jusqu’à cette date (utile par exemple pour exclure l’application de certains 2Packs)</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200433" trl="N">
+  <value column="Name" original="Link Column">Colonne de lien</value>
+  <value column="Description" original="Link Column for Multi-Parent tables">Colonne de lien pour les tableaux multi-parents</value>
+  <value column="Help" original="The Link Column indicates which column is the primary key for those situations where there is more than one parent.  Only define it, if the table has more than one parent column (e.g. AD_User_Roles).">La colonne Lien indique quelle colonne est la clé principale pour les situations où il y a plus d’un parent.  Ne le définir que si la table comporte plus d’une colonne parent (p. ex. AD_User_Roles).</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200441" trl="N">
+  <value column="Name" original="Table Like">Tableau</value>
+  <value column="Description" original="You can use % or a comma separated list of table names enclosed within single quotes (case sensitive)">Vous pouvez utiliser % ou une liste de noms de table séparés par des virgules dans des guillemets uniques (sensible à la casse)</value>
+  <value column="Help" original="The DB Table Name indicates the name of the table in database.">Le nom du tableau DB indique le nom du tableau dans la base de données.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200447" trl="N">
+  <value column="Name" original="Keep Log Days">Garder les jours de journal</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200448" trl="N">
+  <value column="Name" original="Partitioning Method">Méthode de cloisonnement</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200449" trl="N">
+  <value column="Name" original="Table Name">Nom du tableau</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+</idempiereTrl>

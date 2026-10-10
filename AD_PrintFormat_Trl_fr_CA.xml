@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="AD_PrintFormat">
+ <row id="100" trl="N">
+  <value column="Name" original="Order_Header  ** TEMPLATE **">Order_Header  ** MODÈLE **</value>
+  <value column="Description" original="Standard Order Header">En-tête de commande standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="101" trl="N">
+  <value column="Name" original="Order_LineTax  ** TEMPLATE **">Order_LineTax  ** MODÈLE **</value>
+  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve">Ligne de commande standard et impôt</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="102" trl="N">
+  <value column="Name" original="Invoice_Header  ** TEMPLATE **">Invoice_Header  ** MODÈLE **</value>
+  <value column="Description" original="Standard Invoice Header">En-tête de la facture standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="103" trl="N">
+  <value column="Name" original="Invoice_LineTax  ** TEMPLATE **">Invoice_LineTax  ** MODÈLE **</value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve">Ligne de facturation standard et lignes fiscales</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="104" trl="N">
+  <value column="Name" original="InOut_Header ** TEMPLATE **">InOut_Header ** MODÈLE **</value>
+  <value column="Description" original="Standard Shipment Header">En-tête d’expédition standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="105" trl="N">
+  <value column="Name" original="InOut_Line  ** TEMPLATE **">InOut_Line  ** MODÈLE **</value>
+  <value column="Description" original="Standard Shipment Lines">Lignes d’expédition standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="106" trl="N">
+  <value column="Name" original="PaySelection_Check  ** TEMPLATE **">PaySelection_Check  ** MODÈLE **</value>
+  <value column="Description" original="Standard Check with Remittance Info">Vérification standard avec les informations de versement</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="107" trl="N">
+  <value column="Name" original="PaySelection_Remittance_Lines  ** TEMPLATE **">PaySelection_Remittance_Lines  ** MODÈLE **</value>
+  <value column="Description" original="Standard Check/Remittance Lines">Lignes de vérification/d’envoi standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="108" trl="N">
+  <value column="Name" original="PaySelection_Remittance  ** TEMPLATE **">PaySelection_Remittance  ** MODÈLE **</value>
+  <value column="Description" original="Standard Remittance Header">En-tête de versement standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="118" trl="N">
+  <value column="Name" original="Order Header">En-tête de la commande</value>
+  <value column="Description" original="Standard Order Header">En-tête de commande standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="119" trl="N">
+  <value column="Name" original="Order LineTax">Ligne de commandeTaxe</value>
+  <value column="Description" original="Standard Order Line&amp;Tax" xml:space="preserve">Ligne de commande standard et impôt</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="120" trl="N">
+  <value column="Name" original="Invoice Header">En-tête de la facture</value>
+  <value column="Description" original="Standard Invoice Header">En-tête de la facture standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="121" trl="N">
+  <value column="Name" original="Invoice LineTax">Facture LineTax</value>
+  <value column="Description" original="Standard Invoice Line&amp;Tax Lines" xml:space="preserve">Ligne de facturation standard et lignes fiscales</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="122" trl="N">
+  <value column="Name" original="Shipment Header">En-tête d’expédition</value>
+  <value column="Description" original="Standard Shipment Header">En-tête d’expédition standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="123" trl="N">
+  <value column="Name" original="Shipment Line">Ligne d’expédition</value>
+  <value column="Description" original="Standard Shipment Lines">Lignes d’expédition standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="124" trl="N">
+  <value column="Name" original="Check">Chèque</value>
+  <value column="Description" original="Standard Check with Remittance Info">Vérification standard avec les informations de versement</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="125" trl="N">
+  <value column="Name" original="Remittance Lines">Lignes de versement</value>
+  <value column="Description" original="Standard Check/Remittance Lines">Lignes de vérification/d’envoi standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="126" trl="N">
+  <value column="Name" original="Remittance">Envoi</value>
+  <value column="Description" original="Standard Remittance Header">En-tête de versement standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="134" trl="N">
+  <value column="Name" original="Statement of Accounts">État des comptes</value>
+  <value column="Description" original="Statement of Accounts">État des comptes</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="139" trl="N">
+  <value column="Name" original="Project_Header ** TEMPLATE **">Project_Header ** MODÈLE **</value>
+  <value column="Description" original="Standard Project">Projet type</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="140" trl="N">
+  <value column="Name" original="Project_Details ** TEMPLATE **">Project_Details ** MODÈLE **</value>
+  <value column="Description" original="Standard Project Detail">Détail standard du projet</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="142" trl="N">
+  <value column="Name" original="Test Report">Procès-verbal d’essai</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="143" trl="N">
+  <value column="Name" original="Test Form">Formulaire d’essai</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="148" trl="N">
+  <value column="Name" original="RfQResponseLine ** TEMPLATE **">RfQResponseLine ** MODÈLE **</value>
+  <value column="Description" original="Standard RfQ Response Line">Ligne de réponse à la demande de devis standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="149" trl="N">
+  <value column="Name" original="RfQResponse ** TEMPLATE **">RfQRéponse ** TEMPLATE **</value>
+  <value column="Description" original="Standard RfQ Response">Demande de devis standard Réponse</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="151" trl="N">
+  <value column="Name" original="Dunning_Header ** TEMPLATE **">Dunning_Header ** MODÈLE **</value>
+  <value column="Description" original="Standard Dunning Letter">Lettre de rappel de paiement standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="152" trl="N">
+  <value column="Name" original="Dunning_Line ** TEMPLATE **">Dunning_Line ** MODÈLE **</value>
+  <value column="Description" original="Standard Dunning Letter Lines">Lignes des lettres de rappel de paiement standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="153" trl="N">
+  <value column="Name" original="Inventory Move Hdr (Example)">Déplacement des stocks Hdr (exemple)</value>
+  <value column="Description" original="Example">Exemple</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="154" trl="N">
+  <value column="Name" original="Inventory Move Line (Example)">Ligne de déplacement des stocks (exemple)</value>
+  <value column="Description" original="Example">Exemple</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="155" trl="N">
+  <value column="Name" original="Inventory Physical Line (Example)">Ligne physique d’inventaire (exemple)</value>
+  <value column="Description" original="Example">Exemple</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="156" trl="N">
+  <value column="Name" original="Inventory Physical Hdr (Example)">Hdr physique de l’inventaire (exemple)</value>
+  <value column="Description" original="Example">Exemple</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="161" trl="Y">
+  <value column="Name" original="Reference List">Liste de référence</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="162" trl="Y">
+  <value column="Name" original="Message">Context Message</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="163" trl="N">
+  <value column="Name" original="Report Line">Ligne de rapport</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="164" trl="N">
+  <value column="Name" original="Report Source">Source du rapport</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="167" trl="N">
+  <value column="Name" original="Process">Processus</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50000" trl="N">
+  <value column="Name" original="MRP Review">Examen du PRM</value>
+  <value column="Description" original="MRP Detail">Détail du PRP</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50001" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Header ** TEMPLATE **">Manufacturing_Order_Header ** MODÈLE **</value>
+  <value column="Description" original="Manufacturing Order">Ordre de fabrication</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="Manufacturing_Order_BOMLine ** TEMPLATE **">Manufacturing_Order_BOMLine ** MODÈLE **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Bon de commande de fabrication des matériaux Ligne</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="Manufacturing Orders Review  ">Révision des ordonnances de fabrication  </value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50004" trl="N">
+  <value column="Name" original="Manufacturing Orders Review   Copiar registro 4082309">Examen des commandes de fabrication Cophiar registro 4082309</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50005" trl="N">
+  <value column="Name" original="Component Check">Vérification des composants</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50006" trl="N">
+  <value column="Name" original="Order Transactions">Commande Transactions</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50007" trl="N">
+  <value column="Name" original="Order Transactions Copiar registro 14306576">Commande Transactions Copiar registro 14306576</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50008" trl="N">
+  <value column="Name" original="RV_PP_Operation_Activity &amp;Copy Record 4622012" xml:space="preserve">RV_PP_Operation_Activity &amp;Copier l’enregistrement 4622012</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50009" trl="N">
+  <value column="Name" original="Operation Activity ** TEMPLATE **">Activité d’exploitation ** TEMPLATE **</value>
+  <value column="Description" original="Operation Activity ** TEMPLATE **">Activité d’exploitation ** TEMPLATE **</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50010" trl="N">
+  <value column="Name" original="DistributionOrder_Line  ** TEMPLATE **">DistributionOrder_Line  ** MODÈLE **</value>
+  <value column="Description" original="Standard Order Line">Ligne de commande standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50011" trl="N">
+  <value column="Name" original="DistributionOrder_Header  ** TEMPLATE **">DistributionOrder_Header  ** MODÈLE **</value>
+  <value column="Description" original="Standard Order Header">En-tête de commande standard</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50012" trl="N">
+  <value column="Name" original="Product Costing">Coût des produits</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50013" trl="N">
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formule Détail</value>
+  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formule Détail</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50014" trl="N">
+  <value column="Name" original="Asset Disposal Expense Entry Rpt &amp;Copy Record 1500673861" xml:space="preserve">Registre des frais d’aliénation d’actifs Rpt &amp;Copy 1500673861</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50015" trl="N">
+  <value column="Name" original="Asset Disposal Expense Entry Rpt">Rpt d’entrée des frais d’aliénation des biens</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50016" trl="N">
+  <value column="Name" original="Asset Transfer Entry">Entrée dans le transfert d’actifs</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50017" trl="N">
+  <value column="Name" original="Asset Transfer Entry &amp;Copy Record 733003674" xml:space="preserve">Enregistrement d’entrée et de copie du transfert d’actifs 733003674</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50018" trl="N">
+  <value column="Name" original="Asset Split Entry &amp;Copy Record 895559168" xml:space="preserve">Chiffre d’entrée &amp;Copier de partage d’actifs 895559168</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50019" trl="N">
+  <value column="Name" original="Asset Split Entry">Entrée de fractionnement des actifs</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50020" trl="N">
+  <value column="Name" original="Depreciation Expense Entry &amp;Copy Record 1166440766" xml:space="preserve">Inscription des frais d’amortissement et enregistrement de copie 1166440766</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50021" trl="N">
+  <value column="Name" original="Depreciation Expense Entry">Entrée des frais d’amortissement</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50022" trl="N">
+  <value column="Name" original="Asset Depreciation Forecast &amp;Copy Record 1622765813" xml:space="preserve">Amortissement des actifs Prévision et enregistrement de copie 1622765813</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50023" trl="N">
+  <value column="Name" original="Asset Depreciation Forecast">Prévisions d’amortissement des actifs</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50024" trl="Y">
+  <value column="Name" original="RV_Asset_Parent_Report">RV_Asset_Parent_Report</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50025" trl="Y">
+  <value column="Name" original="RV_Depreciation_Table">RV_Depreciation_Table</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50026" trl="N">
+  <value column="Name" original="Spread Report">Rapport de répartition</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50027" trl="Y">
+  <value column="Name" original="RV_Asset_Depreciation_Method">RV_Asset_Depreciation_Method</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50028" trl="Y">
+  <value column="Name" original="RV_Asset_Convention_Rpt">RV_Asset_Convention_Rpt</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50029" trl="Y">
+  <value column="Name" original="RV_Depreciation_Calculation_Methods">RV_Depreciation_Calculation_Methods</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50030" trl="Y">
+  <value column="Name" original="RV_Asset_Group_Defaults">RV_Asset_Group_Defaults</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50031" trl="N">
+  <value column="Name" original="Inbound Charge Entry Report">Rapport d’entrée de charge entrante</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50032" trl="N">
+  <value column="Name" original="Forecast Report">Rapport prévisionnel</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50033" trl="N">
+  <value column="Name" original="Forecast Report by Period">Rapport prévisionnel par période</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50035" trl="N">
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formula Detail &amp;Copy Record 1746519845</value>
+  <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formule Détail</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50036" trl="N">
+  <value column="Name" original="Forecast Report &amp;Copy Record 1630346308" xml:space="preserve">Rapport de prévisions &amp;Copier Record 1630346308</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50037" trl="N">
+  <value column="Name" original="Manufacturing_Order_Node ** TEMPLATE **">Manufacturing_Order_Node ** MODÈLE **</value>
+  <value column="Description" original="Manufacturing Order Node">Numéro d’ordre de fabrication</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50038" trl="N">
+  <value column="Name" original="Cost BOM Multi Level Review">Facture de coût des matériaux Examen à plusieurs niveaux</value>
+  <value column="Description" original="Cost BOM Multi Level Review">Facture de coût des matériaux Examen à plusieurs niveaux</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50040" trl="N">
+  <value column="Name" original="Manufacturing_Order_BOMLine_Component ** TEMPLATE **">Manufacturing_Order_BOMLine_Component ** MODÈLE **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Bon de commande de fabrication des matériaux Ligne</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50041" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOM_Header ** TEMPLATE **">Manufacturing_Order_BOM_Header ** MODÈLE **</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50042" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Workflow_Header ** TEMPLATE **">Manufacturing_Order_Workflow_Header ** MODÈLE **</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50043" trl="Y">
+  <value column="Name" original="Manufacturing_Order_Node_Product ** TEMPLATE **">Manufacturing_Order_Node_Product ** MODÈLE **</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50044" trl="N">
+  <value column="Name" original="Manufacturing_Order_BOMLine_Packing** TEMPLATE **">Manufacturing_Order_BOMLine_Packing** MODÈLE **</value>
+  <value column="Description" original="Manufacturing Order BOM Line">Bon de commande de fabrication des matériaux Ligne</value>
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50045" trl="Y">
+  <value column="Name" original="Manufacturing_Order_BOM_Header_Packing ** TEMPLATE **">Manufacturing_Order_BOM_Header_Packing ** MODÈLE **</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50051" trl="N">
+  <value column="Name" original="Accounting Fact Reconciliation">Rapprochement des faits comptables</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="50057" trl="N">
+  <value column="Name" original="Indented Bill of Material">Bille de matériel d’origine</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200000" trl="Y">
+  <value column="Name" original="BOM Line">Ligne de nomenclature</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200001" trl="N">
+  <value column="Name" original="Single Level BOM">Bille de matériel à un seul niveau</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200002" trl="N">
+  <value column="Name" original="1099 Extract">1099 Extrait</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200005" trl="N">
+  <value column="Name" original="Bank Register Report">Rapport du registre des banques</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200006" trl="N">
+  <value column="Name" original="Product/Component Where Used">Produit/composant en cas d’utilisation</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200007" trl="N">
+  <value column="Name" original="Simple Fact View">Vue simple des faits</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200014" trl="N">
+  <value column="Name" original="Trial Balance Report">Rapport sur la balance des essais</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200016" trl="N">
+  <value column="Name" original="TestUUDet Print Format">Format d’impression TestUUDet</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200017" trl="N">
+  <value column="Name" original="TestUU Print Format">Format d’impression TestUU</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+ <row id="200018" trl="Y">
+  <value column="Name" original="Tab">Onglet</value>
+  <value column="Description" original="" />
+  <value column="FileNamePattern" original="" />
+ </row>
+</idempiereTrl>

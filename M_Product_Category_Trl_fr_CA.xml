@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="M_Product_Category">
+ <row id="105" trl="N">
+  <value column="Name" original="Standard">Norme</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="106" trl="N">
+  <value column="Name" original="Trees">Arbres</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="107" trl="N">
+  <value column="Name" original="Bushes">Les buses</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="108" trl="N">
+  <value column="Name" original="Tools">Outils</value>
+  <value column="Description" original="Garden Tools">Outils de jardin</value>
+ </row>
+ <row id="109" trl="N">
+  <value column="Name" original="Chemicals">Produits chimiques</value>
+  <value column="Description" original="Lawn Chemicals">Produits chimiques de la pelouse</value>
+ </row>
+ <row id="110" trl="N">
+  <value column="Name" original="Patio ">Terrasse</value>
+  <value column="Description" original="Patio and Lawn Furniture">Meubles de patio et de pelouse</value>
+ </row>
+ <row id="111" trl="N">
+  <value column="Name" original="Documentation">Documentation</value>
+  <value column="Description" original="Documentation Download">Téléchargement de la documentation</value>
+ </row>
+ <row id="112" trl="N">
+  <value column="Name" original="Training">Formation</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="50000" trl="N">
+  <value column="Name" original="Assembly">Assemblée</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="50001" trl="N">
+  <value column="Name" original="Raw Material">Matière première</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="50002" trl="N">
+  <value column="Name" original="Packing">Emballage</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="Resources">Ressources</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Vehicles">Véhicules</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="200001" trl="N">
+  <value column="Name" original="Computers">Ordinateurs</value>
+  <value column="Description" original="" />
+ </row>
+</idempiereTrl>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="M_PriceList">
+ <row id="101" trl="N">
+  <value column="Name" original="Standard">Norme</value>
+  <value column="Description" original="This is the sales price list and we create it based on the Purchase list">C’est la liste de prix de vente et nous la créons sur la base de la liste d’achat</value>
+ </row>
+ <row id="102" trl="N">
+  <value column="Name" original="Purchase">Achat</value>
+  <value column="Description" original="This list is created first - the &quot;root&quot; of the other price lists">Cette liste est créée en premier - la "racine" des autres listes de prix</value>
+ </row>
+ <row id="103" trl="N">
+  <value column="Name" original="Export">Exporter</value>
+  <value column="Description" original="Export Prices in EUR">Prix à l’exportation en EUR</value>
+ </row>
+ <row id="200000" trl="N">
+  <value column="Name" original="Import">Importer</value>
+  <value column="Description" original="Import Prices in EUR">Prix à l’importation en EUR</value>
+ </row>
+</idempiereTrl>

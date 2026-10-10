@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="AD_InfoColumn">
+ <row id="200005" trl="N">
+  <value column="Name" original="Vendor">Fournisseur</value>
+  <value column="Description" original="Current Vendor">Fournisseur actuel</value>
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200006" trl="N">
+  <value column="Name" original="D">D</value>
+  <value column="Description" original="This product is no longer available">Cet article n'est plus disponible</value>
+  <value column="Help" original="The Discontinued check box indicates a product that has been discontinued.">La case à cocher Déclassée indique un produit qui a été arrêté.</value>
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+ <row id="200155" trl="N">
+  <value column="Name" original="Role Name">Nom du rôle</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+  <value column="Placeholder" original="" />
+  <value column="Placeholder2" original="" />
+ </row>
+</idempiereTrl>

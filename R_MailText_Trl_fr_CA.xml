@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="R_MailText">
+ <row id="100" trl="N">
+  <value column="MailText" original="Dear @Name@,&#10;&#10;Thank you for your order.&#10;&#10;Best regards,&#10;  The GardenWorld Team">Bonjour @Name@,
+
+Merci pour votre commande.
+
+Cordialement,
+  L’équipe GardenWorld</value>
+  <value column="Name" original="Order Confirmation">Confirmation de commande</value>
+  <value column="MailHeader" original="Order Confirmation">Confirmation de commande</value>
+  <value column="MailText2" original="" />
+  <value column="MailText3" original="" />
+ </row>
+ <row id="200000" trl="Y">
+  <value column="MailText" original="Dear @Name@,&#10;&#10;You are receiving this email because you (or somebody pretending to be you) said you have lost your iDempiere password.&#10;&#10;To access your iDempiere, use the temporary password from @AD_Client_ID&lt;Name&gt;@ below:&#10;@#NewPassword@&#10;&#10;Once you login, you will be directed to change password screen. Please change your password to something you can remember.&#10;&#10;Sincerely,&#10;The iDempiere Accounts Team&#10;&#10;Note: This email address cannot accept replies." xml:space="preserve">Bonjour @Name@,
+
+Vous recevez ce courriel parce que vous, ou une personne se faisant passer pour vous, avez demandé la réinitialisation de votre mot de passe iDempiere.
+
+Pour accéder à iDempiere, utilisez le mot de passe temporaire de @AD_Client_ID&lt;Name&gt;@ ci-dessous :
+@#NewPassword@
+
+Après la connexion, l’écran de modification du mot de passe s’affichera. Choisissez un nouveau mot de passe que vous pourrez retenir.
+
+Cordialement,
+L’équipe de gestion des comptes iDempiere
+
+Remarque : cette adresse courriel ne reçoit pas les réponses.</value>
+  <value column="Name" original="Reset Password">Réinitialisation mot de passe</value>
+  <value column="MailHeader" original="iDempiere Reset Password ">iDempiere — Réinitialisation du mot de passe</value>
+  <value column="MailText2" original="" />
+  <value column="MailText3" original="" />
+ </row>
+ <row id="200001" trl="Y">
+  <value column="MailText" original="&lt;p&gt;Hello @Name@,&lt;/p&gt;&#10;&#10;&lt;p&gt;The validation code for multi-factor authentication on iDempiere is: &lt;b&gt;@MFASecret@&lt;/b&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;This validation code expires in @MFA_Method_ID&lt;ExpireInMinutes&gt;@ minutes.&lt;/p&gt;" xml:space="preserve">&lt;p&gt;Bonjour @Name@,&lt;/p&gt;
+
+&lt;p&gt;Votre code de validation pour l’authentification multifacteur dans iDempiere est : &lt;b&gt;@MFASecret@&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ce code expire dans @MFA_Method_ID&lt;ExpireInMinutes&gt;@ minutes.&lt;/p&gt;</value>
+  <value column="Name" original="MFA Validation Code">Code de validation de l’authentification multifacteur</value>
+  <value column="MailHeader" original="MFA Validation Code for iDempiere">Code de validation de l’authentification multifacteur iDempiere</value>
+  <value column="MailText2" original="" />
+  <value column="MailText3" original="" />
+ </row>
+ <row id="200002" trl="Y">
+  <value column="MailText" original="&lt;p&gt;Hello @Name@,&lt;/p&gt;&#10;&lt;p&gt;Your password reset code is: &lt;b&gt;@#ResetCode@&lt;/b&gt;&lt;/p&gt;&#10;&lt;p&gt;This code expires in @#ResetCodeExpiryMinutes@ minutes.&lt;/p&gt;&#10;&lt;p&gt;If you did not request this, you can safely ignore this email.&lt;/p&gt;" xml:space="preserve">&lt;p&gt;Bonjour @Name@,&lt;/p&gt;
+&lt;p&gt;Votre code de réinitialisation du mot de passe est : &lt;b&gt;@#ResetCode@&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ce code expire dans @#ResetCodeExpiryMinutes@ minutes.&lt;/p&gt;
+&lt;p&gt;Si vous n’avez pas demandé cette réinitialisation, vous pouvez ignorer ce courriel.&lt;/p&gt;</value>
+  <value column="Name" original="Password Reset Code">Code de réinitialisation du mot de passe</value>
+  <value column="MailHeader" original="Password Reset Code for iDempiere">Code de réinitialisation du mot de passe iDempiere</value>
+  <value column="MailText2" original="" />
+  <value column="MailText3" original="" />
+ </row>
+</idempiereTrl>

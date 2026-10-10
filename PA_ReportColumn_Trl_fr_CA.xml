@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="PA_ReportColumn">
+ <row id="100" trl="Y">
+  <value column="Name" original="Begin Year Balance">Solde au début de l’exercice</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="101" trl="Y">
+  <value column="Name" original="Period Activity">Mouvements de la période</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="102" trl="Y">
+  <value column="Name" original="End Year Balance">Solde à la fin de l’exercice</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="103" trl="Y">
+  <value column="Name" original="End Total Balance">Solde total de clôture</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="104" trl="Y">
+  <value column="Name" original="Begin Total Balance">Solde total d’ouverture</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="105" trl="N">
+  <value column="Name" original="Period Quantity">Période Quantité</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="106" trl="Y">
+  <value column="Name" original="Budget YTD">Budget cumulé depuis le début de l’exercice</value>
+  <value column="Description" original="Budget Year to Date">Budget cumulé depuis le début de l’exercice</value>
+ </row>
+ <row id="107" trl="Y">
+  <value column="Name" original="Actual YTD">Réalisé cumulé depuis le début de l’exercice</value>
+  <value column="Description" original="Actual Year To Date">Réalisé cumulé depuis le début de l’exercice</value>
+ </row>
+ <row id="108" trl="Y">
+  <value column="Name" original="Commitment YTD">Engagements cumulés depuis le début de l’exercice</value>
+  <value column="Description" original="Commitment Year to Date">Engagements cumulés depuis le début de l’exercice</value>
+ </row>
+ <row id="109" trl="Y">
+  <value column="Name" original="Reservations YTD">Réservations cumulées depuis le début de l’exercice</value>
+  <value column="Description" original="Reservations Year to Date">Réservations cumulées depuis le début de l’exercice</value>
+ </row>
+ <row id="110" trl="Y">
+  <value column="Name" original="Budget Spent">Budget consommé</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="111" trl="Y">
+  <value column="Name" original="Budget Available">Budget disponible</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="112" trl="Y">
+  <value column="Name" original="Beginning period ">Début de période</value>
+  <value column="Description" original="Beginning Period">Début de période</value>
+ </row>
+ <row id="113" trl="Y">
+  <value column="Name" original="End period">Fin de période</value>
+  <value column="Description" original="End period">Fin de période</value>
+ </row>
+ <row id="114" trl="Y">
+  <value column="Name" original="Net period">Mouvement net de la période</value>
+  <value column="Description" original="Net period">Mouvement net de la période</value>
+ </row>
+ <row id="115" trl="Y">
+  <value column="Name" original="Period debits">Débits de la période</value>
+  <value column="Description" original="" />
+ </row>
+ <row id="116" trl="Y">
+  <value column="Name" original="Period credits only">Crédits de la période uniquement</value>
+  <value column="Description" original="Period credits only">Crédits de la période uniquement</value>
+ </row>
+</idempiereTrl>

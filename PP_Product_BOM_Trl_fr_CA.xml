@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--iDempiere(r) Release 13_2026-03-09 -Smart Suite ERP, CRM and SCM- (c) 1999-2026 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community--><!--<!DOCTYPE idempiereTrl PUBLIC "-//iDempiere//DTD iDempiere Translation 1.0//EN" "https://raw.githubusercontent.com/idempiere/idempiere/refs/heads/master/utils_dev/trl/idempiereTrl.dtd">--><idempiereTrl language="fr_CA" table="PP_Product_BOM">
+ <row id="145" trl="N">
+  <value column="Name" original="Patio Furniture Set">Ensemble de meubles patio</value>
+  <value column="Description" original="1 table, 4 Chairs and 1 Sun Screen">1 tableau, 4 Présidents et 1 Écran solaire</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50000" trl="N">
+  <value column="Name" original="Patio Chair">Président de Patio</value>
+  <value column="Description" original="Nice Chair for outdoors">Belle chaise pour l’extérieur</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50001" trl="N">
+  <value column="Name" original="Assembly Back Leg">Jambe arrière d’assemblage</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50003" trl="N">
+  <value column="Name" original="Assembly Front Leg">Jambe avant d’assemblage</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+ <row id="50004" trl="N">
+  <value column="Name" original="Fertilizer #50">Engrais #50</value>
+  <value column="Description" original="50 # Bag of Lawn Fertilizer">50 Sac d’engrais de pelouse</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50005" trl="N">
+  <value column="Name" original="Fertilizer #70">Engrais #70</value>
+  <value column="Description" original="70 # Bag of Lawn Fertilizer">70 Sac d’engrais de pelouse</value>
+  <value column="Help" original="" />
+ </row>
+ <row id="50006" trl="N">
+  <value column="Name" original="Lawn Fertilizer">Engrais de pelouse</value>
+  <value column="Description" original="" />
+  <value column="Help" original="" />
+ </row>
+</idempiereTrl>
