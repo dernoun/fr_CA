@@ -1136,41 +1136,20 @@ Il répond à la question, quels sont les composants du produit?</value>
  <row id="53008" trl="N">
   <value column="Name" original="MRP Notice">Avis de MRP</value>
   <value column="Description" original="View MRP Notices">Consulter les avis de MRP</value>
-  <value column="Help" original="The system creates messages while performing processes. In this window you can view them.&#10;&#10;MRP Notice&#10;It is a group of messages generated for the MRP process. It indicates to the scheduler the actions he needs to do to reach the Master Production Schedule. The action messages are set as notices for the planner when he sign up the Compiere session.&#10;&#10;The possible action messages are:&#10;&#10;MRP Code&#09; Action Message&#10;MRP - 001&#09; Beginning Quantity Less Than Zero.&#10;MRP - 020&#09; Create - A Supply Order should be created to satisfy a negative projected on hand balance.&#10;This message is only generate if Create Plan is No or if a new requirement appears the time fence.&#10;&#10;MRP - 030&#09; De Expedite - Indicates that a scheduled supply order is due before it is needed&#10;and should be delayed, or demand rescheduled to an earlier date.&#10;&#10;MRP - 040&#09; Expedite - Indicates that a scheduled supply order is due after is needed&#10;and should be rescheduled to an earlier date, or demand rescheduled to a later date.&#10;&#10;MRP - 050&#09; Cancel - Indicate that a scheduled supply order is no longer needed and should be deleted.&#10;MRP - 060&#09; Release Due For - Indicate that a schedule order should be released.&#10;MRP - 070&#09; Release Past Due For - Indicate that a supply order was not released when it was due,&#10;and should be either released or expedited now, or the demand rescheduled for a later date.&#10;&#10;MRP - 080&#09; Quantity Less than Minimum - Indicates that a supply order was created for&#10;a quantity less than the minimum quantity set in the product planning&#10;&#10;MRP - 090&#09; Quantity Less than Maximum - Indicates that a supply order was created for a quantity&#10;for a quantity greater than than maximum quantity set in the product planning&#10;&#10;MRP - 100&#09; Past Due Time Fence - Indicates that there is an unsatisfied material requirement inside&#10;the planning time fence for this item. You should either manually schedule and expedite orders to&#10;&#10;fill this demand or delay fulfillment of the requirement that created the demand.&#10;&#10;MRP - 110&#09; No exists Dem">Le système crée des messages tout en exécutant des processus. Dans cette fenêtre, vous pouvez les voir.
+  <value column="Help" original="The system creates messages while performing processes. In this window you can view them.&#10;&#10;MRP Notice&#10;It is a group of messages generated for the MRP process. It indicates to the scheduler the actions he needs to do to reach the Master Production Schedule. The action messages are set as notices for the planner when he sign up the Compiere session.&#10;&#10;The possible action messages are:&#10;&#10;MRP Code&#09; Action Message&#10;MRP - 001&#09; Beginning Quantity Less Than Zero.&#10;MRP - 020&#09; Create - A Supply Order should be created to satisfy a negative projected on hand balance.&#10;This message is only generate if Create Plan is No or if a new requirement appears the time fence.&#10;&#10;MRP - 030&#09; De Expedite - Indicates that a scheduled supply order is due before it is needed&#10;and should be delayed, or demand rescheduled to an earlier date.&#10;&#10;MRP - 040&#09; Expedite - Indicates that a scheduled supply order is due after is needed&#10;and should be rescheduled to an earlier date, or demand rescheduled to a later date.&#10;&#10;MRP - 050&#09; Cancel - Indicate that a scheduled supply order is no longer needed and should be deleted.&#10;MRP - 060&#09; Release Due For - Indicate that a schedule order should be released.&#10;MRP - 070&#09; Release Past Due For - Indicate that a supply order was not released when it was due,&#10;and should be either released or expedited now, or the demand rescheduled for a later date.&#10;&#10;MRP - 080&#09; Quantity Less than Minimum - Indicates that a supply order was created for&#10;a quantity less than the minimum quantity set in the product planning&#10;&#10;MRP - 090&#09; Quantity Less than Maximum - Indicates that a supply order was created for a quantity&#10;for a quantity greater than than maximum quantity set in the product planning&#10;&#10;MRP - 100&#09; Past Due Time Fence - Indicates that there is an unsatisfied material requirement inside&#10;the planning time fence for this item. You should either manually schedule and expedite orders to&#10;&#10;fill this demand or delay fulfillment of the requirement that created the demand.&#10;&#10;MRP - 110&#09; No exists Dem">Cette fenêtre présente les messages générés par les traitements, notamment les avis du calcul des besoins en matières (MRP). Ces avis indiquent au planificateur les actions nécessaires pour respecter le programme directeur de production et sont affichés à la connexion.
 
-Avis de MRP
-Il s’agit d’un groupe de messages générés pour le processus MRP. Il indique au planificateur les actions qu’il doit faire pour atteindre le plan directeur de production. Les messages d’action sont définis comme des avis pour le planificateur lorsqu’il s’inscrit à la session Compiere.
-
-Les messages d’action possibles sont les suivants:
-
-Message d’action du code MRP
-Montant de l ’ indemnité de subsistance 001	 Début de la quantité inférieure à zéro.
-Montant de l ’ indemnité de subsistance 020	 Créer - Un ordre d’approvisionnement devrait être créé pour satisfaire un solde négatif prévu à la main.
-Ce message n’est généré que si le plan de création est non ou si une nouvelle exigence apparaît la clôture temporelle.
-
-Montant de l ’ indemnité de subsistance 030	 De Expedite - Indique qu’une commande d’approvisionnement prévue est due avant qu’elle ne soit nécessaire
-et devrait être retardé, ou la demande doit être reportée à une date antérieure.
-
-Montant de l ’ indemnité de subsistance 040	 Accélération - Indique qu’une commande d’approvisionnement prévue est due après avoir été demandée
-et devrait être reportée à une date antérieure, ou une demande reportée à une date ultérieure.
-
-Montant de l ’ indemnité de subsistance 050	 Annuler - Indiquez qu’un ordre de fourniture prévu n’est plus nécessaire et devrait être supprimé.
-Montant de l ’ indemnité de subsistance 060	 Date limite de mise en liberté - Indiquez qu’une ordonnance relative à un calendrier doit être rendue.
-Montant de l ’ indemnité de subsistance 070	 Dédouanement dû pour - Indiquer qu’un ordre de fourniture n’a pas été publié au moment où il était dû,
-et devrait être libéré ou accéléré maintenant, ou la demande reportée à une date ultérieure.
-
-Montant de l ’ indemnité de subsistance 080	 Quantité inférieure au minimum - Indique qu’un ordre de fourniture a été créé pour
-une quantité inférieure à la quantité minimale fixée dans la planification du produit;
-
-Montant de l ’ indemnité de subsistance 090	 Quantité inférieure au maximum - Indique qu’une commande de fourniture a été créée pour une quantité
-pour une quantité supérieure à la quantité maximale fixée dans la planification du produit
-
-Montant de l ’ indemnité de subsistance 100	 Fence du temps écoulé - Indique qu’il y a une exigence de matériau non satisfait à l’intérieur
-la clôture de planification pour cet article. Vous devriez soit planifier manuellement et accélérer les commandes à
-
-remplir cette exigence ou retarder le respect de l’exigence qui a créé la demande.
-
-Montant de l ’ indemnité de subsistance 110	 Il n’existe pas Dem</value>
+Avis MRP possibles :
+MRP - 001 : Quantité initiale en stock négative.
+MRP - 020 : Créer un ordre d’approvisionnement pour combler un stock prévisionnel négatif, si la création du plan est désactivée ou si un nouveau besoin apparaît dans l’horizon de planification.
+MRP - 030 : Reporter un approvisionnement prévu trop tôt, ou avancer la demande.
+MRP - 040 : Avancer un approvisionnement prévu trop tard, ou reporter la demande.
+MRP - 050 : Annuler un ordre d’approvisionnement devenu inutile.
+MRP - 060 : Lancer un ordre planifié arrivé à échéance.
+MRP - 070 : Lancer ou accélérer un ordre d’approvisionnement en retard, ou reporter la demande.
+MRP - 080 : Quantité commandée inférieure au minimum défini dans la planification du produit.
+MRP - 090 : Quantité commandée supérieure au maximum défini dans la planification du produit.
+MRP - 100 : Besoin en matières non couvert dans l’horizon de planification. Planifier et accélérer manuellement les approvisionnements, ou reporter la demande à l’origine du besoin.
+MRP - 110 : Description incomplète dans le texte source.</value>
  </row>
  <row id="53009" trl="N">
   <value column="Name" original="Manufacturing Order">Ordre de fabrication</value>
