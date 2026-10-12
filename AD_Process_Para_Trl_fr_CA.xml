@@ -306,7 +306,7 @@ l’courriel puss ne peut pas traiter vers le dossier vietnam sous erreur de dos
   <value column="Placeholder2" original="" />
  </row>
  <row id="53142" trl="N">
-  <value column="Name" original="Includes only the Tabs that Insert records">Comprend seulement les onglets qui Insèrent des enregistrements</value>
+  <value column="Name" original="Includes only the Tabs that Insert records">Onglets avec insertion d’enregistrements seulement</value>
   <value column="Description" original="Generated Export Format for the Tabs with Insert Record is Yes">Format d’exportation généré pour les onglets avec l’enregistrement d’insertion est Oui</value>
   <value column="Help" original="" />
   <value column="Placeholder" original="" />

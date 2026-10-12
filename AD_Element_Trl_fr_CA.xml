@@ -6191,8 +6191,8 @@ Les reçus entrants sont stockés à l’endroit où la priorité est la plus é
   <value column="PO_PrintName" original="" />
  </row>
  <row id="1176" trl="N">
-  <value column="Name" original="Print detail records on pick list">Imprimer les enregistrements de détail sur la liste de sélection</value>
-  <value column="PrintName" original="Print detail records on pick list">Imprimer les enregistrements de détail sur la liste de sélection</value>
+  <value column="Name" original="Print detail records on pick list">Imprimer les détails sur la liste de prélèvement</value>
+  <value column="PrintName" original="Print detail records on pick list">Imprimer les détails sur la liste de prélèvement</value>
   <value column="Description" original="Print detail BOM elements on the pick list">Imprimer la fiche détaillée des éléments du matériel sur la liste de sélection</value>
   <value column="Help" original="The Print Details on Pick List indicates that the BOM element products will print on the Pick List as opposed to this product.">Les détails d’impression sur la liste de sélection indiquent que la facture des produits d’éléments de matériaux sera imprimée sur la liste de sélection par opposition à ce produit.</value>
   <value column="Placeholder" original="" />
@@ -29414,9 +29414,9 @@ http://en.wikipedia.org/wiki/Safety_stock</value>
   <value column="PO_Name" original="" />
   <value column="PO_PrintName" original="" />
  </row>
- <row id="53533" trl="N">
-  <value column="Name" original="Revaluation Cost Offset for Prior Year">Déduction des coûts de réévaluation pour l’exercice précédent</value>
-  <value column="PrintName" original="Revaluation Cost Offset for Prior Year">Déduction des coûts de réévaluation pour l’exercice précédent</value>
+ <row id="53533" trl="Y">
+  <value column="Name" original="Revaluation Cost Offset for Prior Year">Contrepartie du coût réévalué — exercice précédent</value>
+  <value column="PrintName" original="Revaluation Cost Offset for Prior Year">Contrepartie du coût réévalué — exercice précédent</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />
@@ -29436,9 +29436,9 @@ http://en.wikipedia.org/wiki/Safety_stock</value>
   <value column="PO_Name" original="" />
   <value column="PO_PrintName" original="" />
  </row>
- <row id="53535" trl="N">
-  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Prior Year">Réévaluation Dépréciation cumulée de l’amortissement pour l’exercice précédent</value>
-  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Prior Year">Réévaluation Dépréciation cumulée de l’amortissement pour l’exercice précédent</value>
+ <row id="53535" trl="Y">
+  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Prior Year">Contrepartie amort. cumulé réévalué — exercice précédent</value>
+  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Prior Year">Contrepartie amort. cumulé réévalué — exercice précédent</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />
@@ -29447,9 +29447,9 @@ http://en.wikipedia.org/wiki/Safety_stock</value>
   <value column="PO_Name" original="" />
   <value column="PO_PrintName" original="" />
  </row>
- <row id="53536" trl="N">
-  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Current Year">Réévaluation Déduction pour amortissement accumulé pour l’exercice en cours</value>
-  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Current Year">Réévaluation Déduction pour amortissement accumulé pour l’exercice en cours</value>
+ <row id="53536" trl="Y">
+  <value column="Name" original="Revaluation Accumulated Depreciation Offset for Current Year">Contrepartie amort. cumulé réévalué — exercice courant</value>
+  <value column="PrintName" original="Revaluation Accumulated Depreciation Offset for Current Year">Contrepartie amort. cumulé réévalué — exercice courant</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />
@@ -32930,8 +32930,8 @@ Produit: utilisé pour ajouter rapidement des produits à la commande POS</value
   <value column="PO_PrintName" original="" />
  </row>
  <row id="54197" trl="Y">
-  <value column="Name" original="Reval Depexp Offset Acct">Compte de contrepartie des charges d’amortissement de réévaluation</value>
-  <value column="PrintName" original="Reval Depexp Offset Acct">Compte de contrepartie des charges d’amortissement de réévaluation</value>
+  <value column="Name" original="Reval Depexp Offset Acct">Compte de contrepartie des charges d’amort. réévaluées</value>
+  <value column="PrintName" original="Reval Depexp Offset Acct">Compte de contrepartie des charges d’amort. réévaluées</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />
@@ -58581,9 +58581,9 @@ Produit: utilisé pour ajouter rapidement des produits à la commande POS</value
   <value column="PO_Name" original="" />
   <value column="PO_PrintName" original="" />
  </row>
- <row id="202185" trl="N">
-  <value column="Name" original="Use Guarantee Date for Material Policy">Date de garantie d’utilisation pour la politique d’évaluation des stocks</value>
-  <value column="PrintName" original="Use Guarantee Date for Material Policy">Date de garantie d’utilisation pour la politique d’évaluation des stocks</value>
+ <row id="202185" trl="Y">
+  <value column="Name" original="Use Guarantee Date for Material Policy">Utiliser la date de garantie pour la gestion des stocks</value>
+  <value column="PrintName" original="Use Guarantee Date for Material Policy">Utiliser la date de garantie pour la gestion des stocks</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />
@@ -59362,9 +59362,9 @@ Produit: utilisé pour ajouter rapidement des produits à la commande POS</value
   <value column="PO_Name" original="" />
   <value column="PO_PrintName" original="" />
  </row>
- <row id="202272" trl="N">
-  <value column="Name" original="PL$ACT">L’objectif est de faire en sorte que les mesures prises par les États membres soient conformes à l’acquis communautaire.</value>
-  <value column="PrintName" original="PL$ACT">L’objectif est de faire en sorte que les mesures prises par les États membres soient conformes à l’acquis communautaire.</value>
+ <row id="202272" trl="Y">
+  <value column="Name" original="PL$ACT">PL$ACT</value>
+  <value column="PrintName" original="PL$ACT">PL$ACT</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />
@@ -61231,7 +61231,7 @@ définir la colonne dans ParentRelatedColumn remplacera la colonne clé</value>
  </row>
  <row id="202809" trl="N">
   <value column="Name" original="Driven by Search Key">Conduit par la clé de recherche</value>
-  <value column="PrintName" original="Defines if the tree is driven by the Search Key column">Définit si l’arborescence est conduite par la colonne de la clé de recherche</value>
+  <value column="PrintName" original="Defines if the tree is driven by the Search Key column">Arborescence basée sur la clé de recherche</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
   <value column="Placeholder" original="" />

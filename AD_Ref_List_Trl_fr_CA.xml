@@ -225,7 +225,7 @@
   <value column="Description" original="First In First Out Costing">Première entrée dans l’établissement des coûts</value>
  </row>
  <row id="150" trl="N">
-  <value column="Name" original="International GAAP">Groupes de travail internationaux sur les pratiques commerciales restrictives</value>
+  <value column="Name" original="International GAAP">Principes comptables généralement reconnus internationaux</value>
   <value column="Description" original="International GAAP">Groupes de travail internationaux sur les pratiques commerciales restrictives</value>
  </row>
  <row id="151" trl="N">
@@ -2012,8 +2012,8 @@
   <value column="Name" original="Quote All Lines">Citation Toutes les lignes</value>
   <value column="Description" original="" />
  </row>
- <row id="661" trl="N">
-  <value column="Name" original="Funding - All Bidders help funding a Topic">Financement - Tous les soumissionnaires aident à financer un thème</value>
+ <row id="661" trl="Y">
+  <value column="Name" original="Funding - All Bidders help funding a Topic">Financement d’un sujet par tous les soumissionnaires</value>
   <value column="Description" original="" />
  </row>
  <row id="662" trl="N">
@@ -4428,8 +4428,8 @@
   <value column="Name" original="Bank In Transit">Règlements non rapprochés</value>
   <value column="Description" original="" />
  </row>
- <row id="53625" trl="N">
-  <value column="Name" original="Payment Clearing (Unalloc Cash/Payment Selection)">Effacement des paiements (Caisse d’affectation/Sélection de paiement)</value>
+ <row id="53625" trl="Y">
+  <value column="Name" original="Payment Clearing (Unalloc Cash/Payment Selection)">Compensation : caisse non affectée / sélection de paiements</value>
   <value column="Description" original="" />
  </row>
  <row id="53626" trl="N">

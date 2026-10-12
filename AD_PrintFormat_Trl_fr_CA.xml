@@ -250,8 +250,8 @@
   <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formule Détail</value>
   <value column="FileNamePattern" original="" />
  </row>
- <row id="50014" trl="N">
-  <value column="Name" original="Asset Disposal Expense Entry Rpt &amp;Copy Record 1500673861" xml:space="preserve">Registre des frais d’aliénation d’actifs Rpt &amp;Copy 1500673861</value>
+ <row id="50014" trl="Y">
+  <value column="Name" original="Asset Disposal Expense Entry Rpt &amp;Copy Record 1500673861" xml:space="preserve">Écriture de frais de cession d’actifs — Copie 1500673861</value>
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
@@ -265,8 +265,8 @@
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
- <row id="50017" trl="N">
-  <value column="Name" original="Asset Transfer Entry &amp;Copy Record 733003674" xml:space="preserve">Enregistrement d’entrée et de copie du transfert d’actifs 733003674</value>
+ <row id="50017" trl="Y">
+  <value column="Name" original="Asset Transfer Entry &amp;Copy Record 733003674" xml:space="preserve">Écriture de transfert d’actifs — Copie 733003674</value>
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
@@ -280,8 +280,8 @@
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
- <row id="50020" trl="N">
-  <value column="Name" original="Depreciation Expense Entry &amp;Copy Record 1166440766" xml:space="preserve">Inscription des frais d’amortissement et enregistrement de copie 1166440766</value>
+ <row id="50020" trl="Y">
+  <value column="Name" original="Depreciation Expense Entry &amp;Copy Record 1166440766" xml:space="preserve">Écriture de charges d’amortissement — Copie 1166440766</value>
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
@@ -290,8 +290,8 @@
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
- <row id="50022" trl="N">
-  <value column="Name" original="Asset Depreciation Forecast &amp;Copy Record 1622765813" xml:space="preserve">Amortissement des actifs Prévision et enregistrement de copie 1622765813</value>
+ <row id="50022" trl="Y">
+  <value column="Name" original="Asset Depreciation Forecast &amp;Copy Record 1622765813" xml:space="preserve">Prévision d’amortissement des actifs — Copie 1622765813</value>
   <value column="Description" original="" />
   <value column="FileNamePattern" original="" />
  </row>
@@ -351,7 +351,7 @@
   <value column="FileNamePattern" original="" />
  </row>
  <row id="50035" trl="N">
-  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formula Detail &amp;Copy Record 1746519845</value>
+  <value column="Name" original="Multi Level BOM &amp; Formula Detail &amp;Copy Record 1746519845" xml:space="preserve">Nomenclature multiniveau et formule — Copie 1746519845</value>
   <value column="Description" original="Multi Level BOM &amp; Formula Detail" xml:space="preserve">Bille multi-niveaux de matériaux &amp; Formule Détail</value>
   <value column="FileNamePattern" original="" />
  </row>

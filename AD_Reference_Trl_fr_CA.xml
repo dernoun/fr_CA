@@ -1920,8 +1920,8 @@
   <value column="Description" original="Factors for scaling the results of financial reports.">Facteurs permettant d’évaluer les résultats des rapports financiers.</value>
   <value column="Help" original="Currently supported: thousand, million.">Actuellement soutenu: mille, millions.</value>
  </row>
- <row id="53287" trl="N">
-  <value column="Name" original="PP_CostCollectorType Transaction Manufacturing Management">PP_CostCollectorType Gestion de la fabrication des transactions</value>
+ <row id="53287" trl="Y">
+  <value column="Name" original="PP_CostCollectorType Transaction Manufacturing Management">PP_CostCollectorType — Type de transaction de fabrication</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
  </row>

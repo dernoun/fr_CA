@@ -1252,7 +1252,7 @@ Notez que la prise en charge est limitée à l’installation et au test, mais p
   <value column="Help" original="This process copies BOM Lines from the Selected BOM to the Current BOM. The BOM being copied to must have any existing BOM Lines">Ce processus copie le projet de loi de matériel Lignes du projet de loi sélectionné au projet de loi actuel. La facture des documents en cours de copie doit avoir toute facture de documents existante Lignes</value>
  </row>
  <row id="53006" trl="N">
-  <value column="Name" original="Multi Level BOM and Formula Detail">Bille de matériel à plusieurs niveaux et détails de la formule</value>
+  <value column="Name" original="Multi Level BOM and Formula Detail">Nomenclature multiniveau et détail des formules</value>
   <value column="Description" original="Shows in two different panels the parent-component relationship for the product entered in the Product field.">Affiche dans deux panneaux différents la relation parent-composante pour le produit entré dans le champ Produit.</value>
   <value column="Help" original="The BOM &amp; Formula Review option menu shows in two different panels the parent-component relationship for the product entered in the Product field.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;When you need to consult an implosion, click the implosion check box and enter the component you wish to consult and tick the Implosion check box.&#10;&#10;You need to introduce the parent product you want to see its components then click the OK button, next drag the left margin of the panel to the right and you will have the two panels.&#10;&#10;The left panel shows the BOM hierarchies in a tree form. The right panel shows the information connected with the BOM for every product in it." xml:space="preserve">Le menu de l’option "Bill of Materials &amp; Formula Review" affiche dans deux panneaux différents la relation parent-composante pour le produit entré dans le champ Produit.
 
@@ -1433,7 +1433,7 @@ Coûts de travail = Travail Coût de travail + Frais généraux de travail
 </value>
  </row>
  <row id="53062" trl="N">
-  <value column="Name" original="Bill of Material and Formula Cost Roll-Up">Récapitulation des coûts de la lettre de matériel et de la formule</value>
+  <value column="Name" original="Bill of Material and Formula Cost Roll-Up">Cumul des coûts de nomenclature et de formule</value>
   <value column="Description" original="This Process allow integrate Bill of Material &amp; Formula Cost" xml:space="preserve">Ce processus permet d’intégrer la facture de matériel et le coût de la formule</value>
   <value column="Help" original="This Process allow integrate Bill of Material &amp; Formula Cost&#10;&#10;Element Cost = Element Cost this level + Element Cost this low level &#10;&#10;Total BOM Cost = Sum every Element Cost" xml:space="preserve">Ce processus permet d’intégrer la facture de matériel et le coût de la formule
 
@@ -1914,8 +1914,8 @@ d. Date de transaction, deviendra en service pour l’actif nouvellement créé.
   <value column="Description" original="Copy Lines from other bank statement">Copier les lignes d’un autre relevé bancaire</value>
   <value column="Help" original="" />
  </row>
- <row id="200014" trl="N">
-  <value column="Name" original="Void Online Authorization Payment Transaction Process">Void Processus de transaction de paiement d’autorisation en ligne</value>
+ <row id="200014" trl="Y">
+  <value column="Name" original="Void Online Authorization Payment Transaction Process">Annuler une transaction de paiement autorisée en ligne</value>
   <value column="Description" original="" />
   <value column="Help" original="" />
  </row>
@@ -2220,7 +2220,7 @@ Exemple :&lt;br /&gt;
 </value>
  </row>
  <row id="200118" trl="N">
-  <value column="Name" original="Create Window, Tab and Field from Table">Créer une fenêtre, un onglet et un champ à partir de la table</value>
+  <value column="Name" original="Create Window, Tab and Field from Table">Créer fenêtre, onglet et champ à partir d’une table</value>
   <value column="Description" original="Create Window, Tab and Field record of the Table">Créer la fenêtre, l’onglet et l’enregistrement de champ du tableau</value>
   <value column="Help" original="This process will take the table definition and create the Window/Tab and field record with these options:&lt;br&gt;&#10;&#10;New Window: if selected the process will create a new Window record. Otherwise, the process will create a new tab and add it to the selected window.&lt;br&gt;&#10;Create Menu: if selected the process creates the menu record for the new window." xml:space="preserve">Ce processus prendra la définition de table et créera la fenêtre/onglet et l’enregistrement de champ avec ces options:&lt;br&gt;
 
